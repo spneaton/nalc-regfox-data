@@ -1,2110 +1,527 @@
-[
-  {
-    "label": "Abiding Savior Lutheran Church (Winter Haven, Florida)",
-    "value": 23576
-  },
-  {
-    "label": "Abiding Word Lutheran Church (Brenham, Texas)",
-    "value": 25817
-  },
-  {
-    "label": "Abounding Joy Lutheran Church (Saint Cloud, Minnesota)",
-    "value": 24068
-  },
-  {
-    "label": "Abundant Grace Lutheran Church (West Chester, Ohio)",
-    "value": 28655
-  },
-  {
-    "label": "Abundant Life Lutheran Church (Calgary, Alberta)",
-    "value": 29519
-  },
-  {
-    "label": "Abundant Life NALC (Hilliard, Ohio)",
-    "value": 23963
-  },
-  {
-    "label": "Adams Lutheran Church (Batesville, Indiana)",
-    "value": 24522
-  },
-  {
-    "label": "Advent Ev Lutheran Church (Hanahan, South Carolina)",
-    "value": 24735
-  },
-  {
-    "label": "Advent Lutheran Church (Kings Mountain, North Carolina)",
-    "value": 23271
-  },
-  {
-    "label": "Advent Lutheran Church (Winchester, Virginia)",
-    "value": 22695
-  },
-  {
-    "label": "All Saints Lutheran Church (Arlington, Texas)",
-    "value": 23609
-  },
-  {
-    "label": "Altalaha Ev Lutheran Church (Elverson, Pennsylvania)",
-    "value": 28958
-  },
-  {
-    "label": "American Ev Lutheran Church (Prescott, Arizona)",
-    "value": 26977
-  },
-  {
-    "label": "American Lutheran Church (Castlewood, South Dakota)",
-    "value": 22711
-  },
-  {
-    "label": "American Lutheran Church (Rantoul, Illinois)",
-    "value": 16714
-  },
-  {
-    "label": "Annapolis Ev Lutheran Church (Edgewater, Maryland)",
-    "value": 23572
-  },
-  {
-    "label": "Antioch Ev Lutheran Church (Dallas, North Carolina)",
-    "value": 23638
-  },
-  {
-    "label": "Antioch Lutheran Church (Hoagland, Indiana)",
-    "value": 22468
-  },
-  {
-    "label": "Ascension Lutheran Church (Calgary, Alberta)",
-    "value": 22467
-  },
-  {
-    "label": "Ascension Lutheran Church (Fond du Lac, Wisconsin)",
-    "value": 29095
-  },
-  {
-    "label": "Ascension Lutheran Church (Shiocton, Wisconsin)",
-    "value": 23632
-  },
-  {
-    "label": "Badger Lutheran Church (Badger, Iowa)",
-    "value": 23565
-  },
-  {
-    "label": "Badger Lutheran Church (Badger, South Dakota)",
-    "value": 23482
-  },
-  {
-    "label": "Bald Hill Lutheran Church (Bedford, Pennsylvania)",
-    "value": 29522
-  },
-  {
-    "label": "Bardo Lutheran Church (Tofield, Alberta)",
-    "value": 29069
-  },
-  {
-    "label": "Bethany Ev Lutheran Church (La Porte, Indiana)",
-    "value": 29248
-  },
-  {
-    "label": "Bethany Ev Lutheran Church (Laurens, Iowa)",
-    "value": 23289
-  },
-  {
-    "label": "Bethany Ev Lutheran Church (Montoursville, Pennsylvania)",
-    "value": 25861
-  },
-  {
-    "label": "Bethany Lutheran Church (Hawkins, Wisconsin)",
-    "value": 23630
-  },
-  {
-    "label": "Bethany Lutheran Church (Warren, Oregon)",
-    "value": 28253
-  },
-  {
-    "label": "Bethel Ethiopian Ev Fellowship (Alexandria, Virginia)",
-    "value": 23689
-  },
-  {
-    "label": "Bethel Lutheran Church (Bemidji, Minnesota)",
-    "value": 22456
-  },
-  {
-    "label": "Bethel Lutheran Church (Hawkins, Wisconsin)",
-    "value": 23629
-  },
-  {
-    "label": "Bethel Lutheran Church (Lincolnton, North Carolina)",
-    "value": 22697
-  },
-  {
-    "label": "Bethel Lutheran Church (Noblesville, Indiana)",
-    "value": 24047
-  },
-  {
-    "label": "Bethel Lutheran Church (Santa Maria, California)",
-    "value": 23821
-  },
-  {
-    "label": "Bethesda Lutheran Church (Wannaska, Minnesota)",
-    "value": 23563
-  },
-  {
-    "label": "Bethlehem Ev Lutheran Church (Outlook, Saskatchewan)",
-    "value": 24563
-  },
-  {
-    "label": "Bethlehem Lutheran Church (Harlan, Iowa)",
-    "value": 27667
-  },
-  {
-    "label": "Bethlehem Lutheran Church of Dalum (Drumheller, Alberta)",
-    "value": 25609
-  },
-  {
-    "label": "Black Forest Lutheran Church (Colorado Springs, Colorado)",
-    "value": 23575
-  },
-  {
-    "label": "Brighton Heights Lutheran Church (Pittsburgh, Pennsylvania)",
-    "value": 22446
-  },
-  {
-    "label": "Calvary Ev Lutheran Church (Edmonton, Alberta)",
-    "value": 22807
-  },
-  {
-    "label": "Calvary Lutheran Church (Brookfield, Wisconsin)",
-    "value": 99
-  },
-  {
-    "label": "Canby Lutheran Church (Bloomsburg, Pennsylvania)",
-    "value": 28624
-  },
-  {
-    "label": "Cedar Grove Lutheran Church (Leesville, South Carolina)",
-    "value": 30064
-  },
-  {
-    "label": "Chinese Lutheran Church (Honolulu, Hawaii)",
-    "value": 26668
-  },
-  {
-    "label": "Chinese Lutheran Church (Houston, Texas)",
-    "value": 27989
-  },
-  {
-    "label": "Christ Ev Lutheran Church (Womelsdorf, Pennsylvania)",
-    "value": 26090
-  },
-  {
-    "label": "Christ Is Lord Ministries (Fishers, Indiana)",
-    "value": 24980
-  },
-  {
-    "label": "Christ Lutheran Church (Chino, California)",
-    "value": 24737
-  },
-  {
-    "label": "Christ Lutheran Church (Cullman, Alabama)",
-    "value": 28554
-  },
-  {
-    "label": "Christ Lutheran Church (Dubois, Pennsylvania)",
-    "value": 29481
-  },
-  {
-    "label": "Christ Lutheran Church (Elderton, Pennsylvania)",
-    "value": 23591
-  },
-  {
-    "label": "Christ Lutheran Church (Saint Petersburg, Florida)",
-    "value": 20383
-  },
-  {
-    "label": "Christ Lutheran Church (Santa Clarita, California)",
-    "value": 29576
-  },
-  {
-    "label": "Christ Lutheran Church (Scituate, Massachusetts)",
-    "value": 29697
-  },
-  {
-    "label": "Christ Lutheran Church (Warren, Michigan)",
-    "value": 24007
-  },
-  {
-    "label": "Christ Rupp Lutheran Church (Kittanning, Pennsylvania)",
-    "value": 27061
-  },
-  {
-    "label": "Christ the King Lutheran Church (De Soto, Illinois)",
-    "value": 23589
-  },
-  {
-    "label": "Christ the King Lutheran Church (Evans, Georgia)",
-    "value": 17882
-  },
-  {
-    "label": "Christ the King Lutheran Church (Newcastle, Wyoming)",
-    "value": 18121
-  },
-  {
-    "label": "Christ the King Lutheran Church (Yankton, South Dakota)",
-    "value": 22474
-  },
-  {
-    "label": "Christ United Lutheran Church (Granite Falls, North Carolina)",
-    "value": 23878
-  },
-  {
-    "label": "Christ's Ev Lutheran Church (Stanley, North Carolina)",
-    "value": 26172
-  },
-  {
-    "label": "Christiana Lutheran Church (Salisbury, North Carolina)",
-    "value": 16406
-  },
-  {
-    "label": "Christina Lake Lutheran Church (Evansville, Minnesota)",
-    "value": 26123
-  },
-  {
-    "label": "Church of the Apostles Lutheran (North Tonawanda, New York)",
-    "value": 25991
-  },
-  {
-    "label": "Church of the Good Shepherd (Florence, Alabama)",
-    "value": 30404
-  },
-  {
-    "label": "Church of the Living God (Houston, Texas)",
-    "value": 23649
-  },
-  {
-    "label": "Community of Faith Church (West Linn, Oregon)",
-    "value": 29292
-  },
-  {
-    "label": "Concordia Lutheran Church (China Grove, North Carolina)",
-    "value": 23065
-  },
-  {
-    "label": "Concordia Lutheran Church (Kingsburg, California)",
-    "value": 23385
-  },
-  {
-    "label": "County Line Lutheran Church (Markesan, Wisconsin)",
-    "value": 28301
-  },
-  {
-    "label": "Cross Ev Lutheran Church (Pigeon, Michigan)",
-    "value": 23580
-  },
-  {
-    "label": "Cross of Christ Lutheran Church (Concord, North Carolina)",
-    "value": 22442
-  },
-  {
-    "label": "Denny Park Lutheran Church (Seattle, Washington)",
-    "value": 23285
-  },
-  {
-    "label": "Desert Springs Lutheran Church (Truth Or Consequences, New Mexico)",
-    "value": 29438
-  },
-  {
-    "label": "Eagle Grove Ev Lutheran Church (Eagle Grove, Iowa)",
-    "value": 23569
-  },
-  {
-    "label": "Ebenezer Oromo Ev Church (Riverside, Missouri)",
-    "value": 26387
-  },
-  {
-    "label": "Emanuel Lutheran Church (Elmer, New Jersey)",
-    "value": 26731
-  },
-  {
-    "label": "Emmanuel Ev Lutheran Church (Pasadena, Maryland)",
-    "value": 20382
-  },
-  {
-    "label": "Emmanuel Lutheran Church (Export, Pennsylvania)",
-    "value": 23667
-  },
-  {
-    "label": "Emmanuel Lutheran Church (Grafton, Iowa)",
-    "value": 20303
-  },
-  {
-    "label": "Emmanuel Lutheran Church (Rochester, Minnesota)",
-    "value": 24521
-  },
-  {
-    "label": "Emmanuel Lutheran Church (State College, Pennsylvania)",
-    "value": 27160
-  },
-  {
-    "label": "Emmanuel Lutheran Church of Northwest Arkansas (Fayetteville, Arkansas)",
-    "value": 26622
-  },
-  {
-    "label": "Emmons Lutheran Church (Emmons, Minnesota)",
-    "value": 24024
-  },
-  {
-    "label": "English Ev Lutheran Church (Zelienople, Pennsylvania)",
-    "value": 29201
-  },
-  {
-    "label": "Epiphany Lutheran Church (Gonzalez, Florida)",
-    "value": 29096
-  },
-  {
-    "label": "Evaline Lutheran Church (Pittsburgh, Pennsylvania)",
-    "value": 25644
-  },
-  {
-    "label": "Evangelical Lutheran Church (Mankato, Kansas)",
-    "value": 23952
-  },
-  {
-    "label": "Faith Community Lutheran Church (Longmont, Colorado)",
-    "value": 22790
-  },
-  {
-    "label": "Faith Ev Lutheran Church (Calgary, Alberta)",
-    "value": 26052
-  },
-  {
-    "label": "Faith Ev Lutheran Church (Faith, North Carolina)",
-    "value": 23936
-  },
-  {
-    "label": "Faith in Christ Lutheran Church (Springfield, Ohio)",
-    "value": 23564
-  },
-  {
-    "label": "Faith Lutheran Church (Cincinnati, Ohio)",
-    "value": 26578
-  },
-  {
-    "label": "Faith Lutheran Church (Dannebrog, Nebraska)",
-    "value": 23275
-  },
-  {
-    "label": "Faith Lutheran Church (Mentor, Minnesota)",
-    "value": 22829
-  },
-  {
-    "label": "Faith Lutheran Church (Millersburg, Ohio)",
-    "value": 23664
-  },
-  {
-    "label": "Faith Lutheran Church (Monona, Iowa)",
-    "value": 23182
-  },
-  {
-    "label": "Faith Lutheran Church (Sturgeon Lake, Minnesota)",
-    "value": 23276
-  },
-  {
-    "label": "Faith Lutheran Church (Wilmington, North Carolina)",
-    "value": 28607
-  },
-  {
-    "label": "Falls Community Church (Sioux Falls, South Dakota)",
-    "value": 23590
-  },
-  {
-    "label": "First English Ev Lutheran Church (Baker City, Oregon)",
-    "value": 17083
-  },
-  {
-    "label": "First English Lutheran Church (Lennox, South Dakota)",
-    "value": 24582
-  },
-  {
-    "label": "First English Lutheran Church (Mansfield, Ohio)",
-    "value": 23227
-  },
-  {
-    "label": "First English Lutheran Church (Marysville, Ohio)",
-    "value": 23481
-  },
-  {
-    "label": "First English Lutheran Church (Wapakoneta, Ohio)",
-    "value": 29824
-  },
-  {
-    "label": "First Ev Lutheran Church (Floresville, Texas)",
-    "value": 23424
-  },
-  {
-    "label": "First Ev Lutheran Church (Gonzales, Texas)",
-    "value": 29577
-  },
-  {
-    "label": "First Ev Lutheran Church (Idaho Falls, Idaho)",
-    "value": 29042
-  },
-  {
-    "label": "First Ev Lutheran Church (Iron Mountain, Michigan)",
-    "value": 29911
-  },
-  {
-    "label": "First Ev Lutheran Church (Leipsic, Ohio)",
-    "value": 17079
-  },
-  {
-    "label": "First Ev Lutheran Church (Manchester, Iowa)",
-    "value": 24573
-  },
-  {
-    "label": "First Ev Lutheran Church (Paxton, Illinois)",
-    "value": 17781
-  },
-  {
-    "label": "First Ev Lutheran Church (Ridgway, Pennsylvania)",
-    "value": 27202
-  },
-  {
-    "label": "First Ev Lutheran Church (West Palm Beach, Florida)",
-    "value": 23479
-  },
-  {
-    "label": "First Ev Lutheran Church of Gray Manor (Dundalk, Maryland)",
-    "value": 24736
-  },
-  {
-    "label": "First Lutheran Church (Burnet, Texas)",
-    "value": 29771
-  },
-  {
-    "label": "First Lutheran Church (Gilmore City, Iowa)",
-    "value": 23953
-  },
-  {
-    "label": "First Lutheran Church (Houston, Texas)",
-    "value": 23945
-  },
-  {
-    "label": "First Lutheran Church (Kirkland, Illinois)",
-    "value": 16517
-  },
-  {
-    "label": "First Lutheran Church (Miles City, Montana)",
-    "value": 28176
-  },
-  {
-    "label": "First Lutheran Church (Ottumwa, Iowa)",
-    "value": 30128
-  },
-  {
-    "label": "First Lutheran Church (Philip, South Dakota)",
-    "value": 22712
-  },
-  {
-    "label": "First Lutheran Church (Pontiac, Illinois)",
-    "value": 23269
-  },
-  {
-    "label": "First Lutheran Church (Rock Port, Missouri)",
-    "value": 23918
-  },
-  {
-    "label": "First Lutheran Church (Rural Valley, Pennsylvania)",
-    "value": 22795
-  },
-  {
-    "label": "First Lutheran Church (Saint Ansgar, Iowa)",
-    "value": 23870
-  },
-  {
-    "label": "First Lutheran Church (Troy, Ohio)",
-    "value": 23608
-  },
-  {
-    "label": "First Lutheran Church (Washburn, North Dakota)",
-    "value": 22707
-  },
-  {
-    "label": "First Lutheran Church (Washington, Pennsylvania)",
-    "value": 23574
-  },
-  {
-    "label": "First St Paul's Lutheran Church (Burlington, Colorado)",
-    "value": 29110
-  },
-  {
-    "label": "First United Ev Lutheran Church (Hammond, Indiana)",
-    "value": 23937
-  },
-  {
-    "label": "Franklin Lutheran Church (Soldiers Grove, Wisconsin)",
-    "value": 28558
-  },
-  {
-    "label": "Freemount Lutheran Church (Lindsborg, Kansas)",
-    "value": 23606
-  },
-  {
-    "label": "Friedens Lutheran Church Stony Run (Kempton, Pennsylvania)",
-    "value": 29847
-  },
-  {
-    "label": "Friends Home Ev Lutheran Church (Savonburg, Kansas)",
-    "value": 29706
-  },
-  {
-    "label": "Glen Flora Lutheran Church (Glen Flora, Wisconsin)",
-    "value": 23925
-  },
-  {
-    "label": "Good Hope Lutheran Church (Youngstown, Ohio)",
-    "value": 24793
-  },
-  {
-    "label": "Good Shepherd Chinese Lutheran Church (Edmonton, Alberta)",
-    "value": 29566
-  },
-  {
-    "label": "Good Shepherd Ev Lutheran Church (Bloomfield, Nebraska)",
-    "value": 26568
-  },
-  {
-    "label": "Good Shepherd Ev Lutheran Church (Manistee, Michigan)",
-    "value": 23662
-  },
-  {
-    "label": "Good Shepherd Lutheran Church (Lake Wilson, Minnesota)",
-    "value": 29788
-  },
-  {
-    "label": "Good Shepherd Lutheran Church (Vickery, Ohio)",
-    "value": 23917
-  },
-  {
-    "label": "Grace Ev Lutheran Church (Bessemer City, North Carolina)",
-    "value": 23663
-  },
-  {
-    "label": "Grace Ev Lutheran Church (Jackson Center, Ohio)",
-    "value": 23757
-  },
-  {
-    "label": "Grace Ev Lutheran Church (Newton, North Carolina)",
-    "value": 20327
-  },
-  {
-    "label": "Grace Ev Lutheran Church (Springfield, Ohio)",
-    "value": 22698
-  },
-  {
-    "label": "Grace Ev Lutheran Church (Washington, North Carolina)",
-    "value": 23226
-  },
-  {
-    "label": "Grace Ev Lutheran Church (West Carrollton, Ohio)",
-    "value": 23586
-  },
-  {
-    "label": "Grace Ev Lutheran Church (Westerville, Ohio)",
-    "value": 27440
-  },
-  {
-    "label": "Grace Lutheran Church (Eaton, Ohio)",
-    "value": 20250
-  },
-  {
-    "label": "Grace Lutheran Church (Enterprise, Oregon)",
-    "value": 28161
-  },
-  {
-    "label": "Grace Lutheran Church (Erskine, Minnesota)",
-    "value": 22114
-  },
-  {
-    "label": "Grace Lutheran Church (Huntington Beach, California)",
-    "value": 23671
-  },
-  {
-    "label": "Grace Lutheran Church (Menno, South Dakota)",
-    "value": 23583
-  },
-  {
-    "label": "Grace Lutheran Church (Pittsburgh, Pennsylvania)",
-    "value": 22433
-  },
-  {
-    "label": "Grace Lutheran Church (Ridgecrest, California)",
-    "value": 314
-  },
-  {
-    "label": "Grace Lutheran Church (Thornville, Ohio)",
-    "value": 23312
-  },
-  {
-    "label": "Grace Lutheran Church of Winston-Salem (Clemmons, North Carolina)",
-    "value": 27185
-  },
-  {
-    "label": "Granum Lutheran Church (Granum, Alberta)",
-    "value": 25672
-  },
-  {
-    "label": "Greenford Lutheran Church (Greenford, Ohio)",
-    "value": 29489
-  },
-  {
-    "label": "Groveport Zion Lutheran Church (Groveport, Ohio)",
-    "value": 23823
-  },
-  {
-    "label": "Hayti Lutheran Church (Hayti, South Dakota)",
-    "value": 23073
-  },
-  {
-    "label": "Heritage Lutheran Church (Baltic, South Dakota)",
-    "value": 28112
-  },
-  {
-    "label": "Heritage Lutheran Church (Brandon, South Dakota)",
-    "value": 23075
-  },
-  {
-    "label": "Hillside Community Lutheran Church (Spring Hill, Kansas)",
-    "value": 29445
-  },
-  {
-    "label": "His Light Ministries / Ministerio SU Luz (Miami, Florida)",
-    "value": 20300
-  },
-  {
-    "label": "Holy Cross Ev Lutheran Church (Bethlehem, Pennsylvania)",
-    "value": 23317
-  },
-  {
-    "label": "Holy Cross Ev Lutheran Church (Nazareth, Pennsylvania)",
-    "value": 24035
-  },
-  {
-    "label": "Holy Cross Ev Lutheran Church (Pacifica, California)",
-    "value": 28593
-  },
-  {
-    "label": "Holy Ghost Lutheran Church (Fredericksburg, Texas)",
-    "value": 22699
-  },
-  {
-    "label": "Holy Trinity Ev Lutheran Church (Abington, Pennsylvania)",
-    "value": 16641
-  },
-  {
-    "label": "Holy Trinity Ev Lutheran Church (Berlin, Pennsylvania)",
-    "value": 22476
-  },
-  {
-    "label": "Holy Trinity Ev Lutheran Church (Gastonia, North Carolina)",
-    "value": 22450
-  },
-  {
-    "label": "Holy Trinity Ev Lutheran Church (Grove City, Pennsylvania)",
-    "value": 26173
-  },
-  {
-    "label": "Holy Trinity Ev Lutheran Church (Troutman, North Carolina)",
-    "value": 22470
-  },
-  {
-    "label": "Holy Trinity Lutheran Church (Kettle River, Minnesota)",
-    "value": 23377
-  },
-  {
-    "label": "Holy Trinity Lutheran Church (Little Mountain, South Carolina)",
-    "value": 24515
-  },
-  {
-    "label": "Holy Trinity Lutheran Church (Mansfield, Ohio)",
-    "value": 22827
-  },
-  {
-    "label": "Holy Trinity Lutheran Church (North Augusta, South Carolina)",
-    "value": 26089
-  },
-  {
-    "label": "Holy Trinity Lutheran Church (Spokane Valley, Washington)",
-    "value": 29822
-  },
-  {
-    "label": "Hope Lutheran Church (Cedar Hill, Texas)",
-    "value": 17331
-  },
-  {
-    "label": "Hope Lutheran Church (Hubbard Lake, Michigan)",
-    "value": 23924
-  },
-  {
-    "label": "Hope Lutheran Church (Ladysmith, Wisconsin)",
-    "value": 23920
-  },
-  {
-    "label": "Hope Lutheran Church (Smethport, Pennsylvania)",
-    "value": 23582
-  },
-  {
-    "label": "Hope Lutheran Church (Westminster, California)",
-    "value": 24589
-  },
-  {
-    "label": "Hopeful Lutheran Church (Florence, Kentucky)",
-    "value": 30129
-  },
-  {
-    "label": "House of Prayer Lutheran Church (Elizabethtown, Kentucky)",
-    "value": 23074
-  },
-  {
-    "label": "Iglesia Luterana la Transfiguracion (Irving, Texas)",
-    "value": 27472
-  },
-  {
-    "label": "Iglesia Luterana San Miguel (Fort Worth, Texas)",
-    "value": 27003
-  },
-  {
-    "label": "Immanuel Ev Lutheran Church (Fresno, California)",
-    "value": 173
-  },
-  {
-    "label": "Immanuel Ev Lutheran Church (New York City, New York)",
-    "value": 26483
-  },
-  {
-    "label": "Immanuel Lutheran Church (Altona, Illinois)",
-    "value": 20622
-  },
-  {
-    "label": "Immanuel Lutheran Church (Crosby, Minnesota)",
-    "value": 22434
-  },
-  {
-    "label": "Immanuel Lutheran Church (La Vernia, Texas)",
-    "value": 23423
-  },
-  {
-    "label": "Immanuel Lutheran Church (Sumter, South Carolina)",
-    "value": 23868
-  },
-  {
-    "label": "Immanuel Lutheran Church (Thomasboro, Illinois)",
-    "value": 18494
-  },
-  {
-    "label": "Immanuel Lutheran Church (Whitewood, South Dakota)",
-    "value": 17824
-  },
-  {
-    "label": "Immanuel Lutheran Church of Lebanon (Watertown, Wisconsin)",
-    "value": 23187
-  },
-  {
-    "label": "Journey of Faith Lutheran Church (North Ridgeville, Ohio)",
-    "value": 23919
-  },
-  {
-    "label": "Joy Lutheran Church (Escanaba, Michigan)",
-    "value": 29260
-  },
-  {
-    "label": "Joy Lutheran Church (Richmond, Texas)",
-    "value": 22471
-  },
-  {
-    "label": "Joy Lutheran Church (Rockwall, Texas)",
-    "value": 29212
-  },
-  {
-    "label": "Joy Lutheran Church (Winnipeg, Manitoba)",
-    "value": 24562
-  },
-  {
-    "label": "Joy Mission Church (Lexington, South Carolina)",
-    "value": 28030
-  },
-  {
-    "label": "Lake Campbell Lutheran Church (Volga, South Dakota)",
-    "value": 29872
-  },
-  {
-    "label": "Lake Preston Lutheran Church (Lake Preston, South Dakota)",
-    "value": 29935
-  },
-  {
-    "label": "Lamb of God Lutheran Church (Simpsonville, South Carolina)",
-    "value": 27386
-  },
-  {
-    "label": "Leaf Mountain Lutheran Church (Clitherall, Minnesota)",
-    "value": 26862
-  },
-  {
-    "label": "Lebanon Lutheran Church (Lebanon Church, Virginia)",
-    "value": 22708
-  },
-  {
-    "label": "Life Stream Oromo Ev Church (Chicago, Illinois)",
-    "value": 22801
-  },
-  {
-    "label": "Living Faith Lutheran Church (Red Deer, Alberta)",
-    "value": 24979
-  },
-  {
-    "label": "Living Faith Lutheran Church (Wabash, Indiana)",
-    "value": 23578
-  },
-  {
-    "label": "Living Hope Lutheran Church (Farwell, Michigan)",
-    "value": 22701
-  },
-  {
-    "label": "Living Water Lutheran Church (Centerville, Ohio)",
-    "value": 23274
-  },
-  {
-    "label": "Living Word International Christian Church (Saint Paul, Minnesota)",
-    "value": 26153
-  },
-  {
-    "label": "Living Word Lutheran Church (Rogers, Arkansas)",
-    "value": 27890
-  },
-  {
-    "label": "Lord of All Lutheran Church (Strathmore, Alberta)",
-    "value": 24810
-  },
-  {
-    "label": "Lord of Life Lutheran Church (Memphis, Tennessee)",
-    "value": 23280
-  },
-  {
-    "label": "Lord of Life Lutheran Church (Oconomowoc, Wisconsin)",
-    "value": 27058
-  },
-  {
-    "label": "Lutheran Church of the Atonement (Wilkesboro, North Carolina)",
-    "value": 23480
-  },
-  {
-    "label": "Lutheran Church of the Valley (Harrisonburg, Virginia)",
-    "value": 29262
-  },
-  {
-    "label": "Maria Lutheran Church (Hershey, Nebraska)",
-    "value": 28087
-  },
-  {
-    "label": "Marion Lutheran Church (Saint Olaf, Iowa)",
-    "value": 16519
-  },
-  {
-    "label": "Martin Luther Lutheran Church (Johnson, Nebraska)",
-    "value": 26514
-  },
-  {
-    "label": "Mayer Memorial Lutheran Church (Newberry, South Carolina)",
-    "value": 23946
-  },
-  {
-    "label": "Messiah Lutheran Church (Lebanon, Pennsylvania)",
-    "value": 23668
-  },
-  {
-    "label": "Messiah Lutheran Church (Roscommon, Michigan)",
-    "value": 29881
-  },
-  {
-    "label": "Midway Lutheran Church (Brookings, South Dakota)",
-    "value": 29569
-  },
-  {
-    "label": "Miller's Lutheran Church (Hickory, North Carolina)",
-    "value": 22826
-  },
-  {
-    "label": "Mission in Christ Lutheran Church (Strawberry Point, Iowa)",
-    "value": 22716
-  },
-  {
-    "label": "Missouri Micronesian Church (Riverside, Missouri)",
-    "value": 26832
-  },
-  {
-    "label": "Mount Calvary Lutheran Church (Claremont, North Carolina)",
-    "value": 22478
-  },
-  {
-    "label": "Mount Union Lutheran Church (Elderton, Pennsylvania)",
-    "value": 23592
-  },
-  {
-    "label": "Mount Union Lutheran Church (Taneytown, Maryland)",
-    "value": 26876
-  },
-  {
-    "label": "Mount Zion Lutheran Church (Lucas, Ohio)",
-    "value": 24738
-  },
-  {
-    "label": "Mount Zion Lutheran Church (Somerset, Pennsylvania)",
-    "value": 29502
-  },
-  {
-    "label": "Mt Tabor Ev Lutheran Church (Little Mountain, South Carolina)",
-    "value": 30399
-  },
-  {
-    "label": "Nazareth Ev Lutheran Church (Cedar Falls, Iowa)",
-    "value": 54
-  },
-  {
-    "label": "Nazareth Lutheran Church (Rural Hall, North Carolina)",
-    "value": 27674
-  },
-  {
-    "label": "New Beginnings Lutheran Church (Mahomet, Illinois)",
-    "value": 24775
-  },
-  {
-    "label": "New Covenant Lutheran Church (Morganton, North Carolina)",
-    "value": 28477
-  },
-  {
-    "label": "New Hope Lutheran Church (Circle, Montana)",
-    "value": 28985
-  },
-  {
-    "label": "New Hope Lutheran Church (Foresthill, California)",
-    "value": 28538
-  },
-  {
-    "label": "New Hope Lutheran Church (Hayti, South Dakota)",
-    "value": 23067
-  },
-  {
-    "label": "New Hope Lutheran Church (Irmo, South Carolina)",
-    "value": 25691
-  },
-  {
-    "label": "New Hope Lutheran Church (Kannapolis, North Carolina)",
-    "value": 28662
-  },
-  {
-    "label": "New Jerusalem Lutheran Church (Hickory, North Carolina)",
-    "value": 22115
-  },
-  {
-    "label": "New Life Lutheran Church (Gallipolis, Ohio)",
-    "value": 22908
-  },
-  {
-    "label": "New Life Lutheran Church (Menomonie, Wisconsin)",
-    "value": 23598
-  },
-  {
-    "label": "Nile Evangelical Church (Rochester, New York)",
-    "value": 22709
-  },
-  {
-    "label": "North Preston Lutheran Church (Lake Preston, South Dakota)",
-    "value": 29936
-  },
-  {
-    "label": "Norway Lutheran Church (Saint Olaf, Iowa)",
-    "value": 16518
-  },
-  {
-    "label": "Oakland Lutheran Church (Mansfield, Ohio)",
-    "value": 22440
-  },
-  {
-    "label": "OASIS Church (Lake Mary, Florida)",
-    "value": 22694
-  },
-  {
-    "label": "Old East Paint Creek Lutheran Church (Waterville, Iowa)",
-    "value": 16378
-  },
-  {
-    "label": "Old West Paint Creek Lutheran Church (Waukon, Iowa)",
-    "value": 16379
-  },
-  {
-    "label": "Organ Lutheran Church (Salisbury, North Carolina)",
-    "value": 23604
-  },
-  {
-    "label": "Oromo Ev Church of Atlanta (Dacula, Georgia)",
-    "value": 29813
-  },
-  {
-    "label": "Oromo Ev Church of Denver (Aurora, Colorado)",
-    "value": 22797
-  },
-  {
-    "label": "Oromo Evangelical Church (Baltimore, Ohio)",
-    "value": 25709
-  },
-  {
-    "label": "Oromo Evangelical Church (Houston, Texas)",
-    "value": 23822
-  },
-  {
-    "label": "Our Savior Lutheran Church (Auburn, California)",
-    "value": 26212
-  },
-  {
-    "label": "Our Savior Lutheran Church (Three Rivers, Texas)",
-    "value": 22479
-  },
-  {
-    "label": "Our Savior's Community Lutheran Church (Hussar, Alberta)",
-    "value": 25608
-  },
-  {
-    "label": "Our Savior's Ev Lutheran Church (Scandia, Kansas)",
-    "value": 27927
-  },
-  {
-    "label": "Our Savior's Lutheran Church (Menno, South Dakota)",
-    "value": 23584
-  },
-  {
-    "label": "Our Savior's Lutheran Church (Salem, Oregon)",
-    "value": 23845
-  },
-  {
-    "label": "Our Savior's Lutheran Church (Viborg, South Dakota)",
-    "value": 29045
-  },
-  {
-    "label": "Our Saviour Lutheran Church (Dallas, North Carolina)",
-    "value": 23651
-  },
-  {
-    "label": "Our Saviour's Lutheran Church (Ackley, Iowa)",
-    "value": 22443
-  },
-  {
-    "label": "Our Saviour's Lutheran Church (Iron Mountain, Michigan)",
-    "value": 26358
-  },
-  {
-    "label": "Our Saviour's Lutheran Church (Tyler, Texas)",
-    "value": 16570
-  },
-  {
-    "label": "Peace Lutheran Church (Claresholm, Alberta)",
-    "value": 25043
-  },
-  {
-    "label": "Peace Lutheran Church (Clifton, Texas)",
-    "value": 23882
-  },
-  {
-    "label": "Peace Lutheran Church (Connersville, Indiana)",
-    "value": 20261
-  },
-  {
-    "label": "Peace Lutheran Church (Devils Lake, North Dakota)",
-    "value": 22702
-  },
-  {
-    "label": "Peace Lutheran Church (Edmond, Oklahoma)",
-    "value": 22804
-  },
-  {
-    "label": "Peace Lutheran Church (Fort St John, British Columbia)",
-    "value": 24587
-  },
-  {
-    "label": "Peace Lutheran Church (Gibsonville, North Carolina)",
-    "value": 29060
-  },
-  {
-    "label": "Peace Lutheran Church (Northwood, Iowa)",
-    "value": 23644
-  },
-  {
-    "label": "Peace Lutheran Church (Rockdale, Texas)",
-    "value": 22828
-  },
-  {
-    "label": "Peace Lutheran Church (Rosenberg, Texas)",
-    "value": 23069
-  },
-  {
-    "label": "Peace Lutheran Church (Saint Joseph, Michigan)",
-    "value": 23453
-  },
-  {
-    "label": "Peace Lutheran Church (Sullivan, Missouri)",
-    "value": 29494
-  },
-  {
-    "label": "Peace Lutheran Church (Tigerton, Wisconsin)",
-    "value": 23072
-  },
-  {
-    "label": "Pine Grove Lutheran Church (Wannaska, Minnesota)",
-    "value": 26968
-  },
-  {
-    "label": "Pleasant Union Lutheran Church (Kittanning, Pennsylvania)",
-    "value": 23656
-  },
-  {
-    "label": "Port Madison Lutheran Church (Rollingbay, Washington)",
-    "value": 23957
-  },
-  {
-    "label": "Prince of Peace Lutheran Church (Casper, Wyoming)",
-    "value": 24074
-  },
-  {
-    "label": "Prince of Peace Lutheran Church (Everett, Washington)",
-    "value": 23443
-  },
-  {
-    "label": "Prince of Peace Lutheran Church (Fayetteville, Georgia)",
-    "value": 22715
-  },
-  {
-    "label": "Prince of Peace Lutheran Church (Saint Joseph, Illinois)",
-    "value": 22480
-  },
-  {
-    "label": "Redeemer Lutheran Church (Owosso, Michigan)",
-    "value": 22472
-  },
-  {
-    "label": "Reformation Church (Middlebury, Indiana)",
-    "value": 28632
-  },
-  {
-    "label": "Reformation Lutheran Church (Culpeper, Virginia)",
-    "value": 22703
-  },
-  {
-    "label": "Reformation Lutheran Church (Lancaster, Pennsylvania)",
-    "value": 23596
-  },
-  {
-    "label": "Reformation Lutheran Church (Westminster, California)",
-    "value": 23874
-  },
-  {
-    "label": "Resurrection Lutheran Church (Port Clinton, Ohio)",
-    "value": 16696
-  },
-  {
-    "label": "Resurrection Lutheran Church (Wooster, Ohio)",
-    "value": 23611
-  },
-  {
-    "label": "Rindal Lutheran Church (Viking, Minnesota)",
-    "value": 23672
-  },
-  {
-    "label": "Risen Lord Lutheran Church (Edmonton, Alberta)",
-    "value": 24577
-  },
-  {
-    "label": "River's Edge Ministries (Mount Airy, Maryland)",
-    "value": 23270
-  },
-  {
-    "label": "Riverside Lutheran Church (Wannaska, Minnesota)",
-    "value": 22713
-  },
-  {
-    "label": "Sacred Word Lutheran Church (Mobridge, South Dakota)",
-    "value": 25613
-  },
-  {
-    "label": "Salem Ev Lutheran Church (Axtell, Kansas)",
-    "value": 23296
-  },
-  {
-    "label": "Salem Ev Lutheran Church (Brenham, Texas)",
-    "value": 29014
-  },
-  {
-    "label": "Salem Ev Lutheran Church (Salisbury, North Carolina)",
-    "value": 23652
-  },
-  {
-    "label": "Salem Ev Lutheran Church (West Alexandria, Ohio)",
-    "value": 27182
-  },
-  {
-    "label": "Salem Evans Creek Lutheran Church (Stone Creek, Ohio)",
-    "value": 23745
-  },
-  {
-    "label": "Salem Lutheran Church (Bark River, Michigan)",
-    "value": 23268
-  },
-  {
-    "label": "Salem Lutheran Church (Elizabethville, Pennsylvania)",
-    "value": 26548
-  },
-  {
-    "label": "Salem Lutheran Church (Kingman, Alberta)",
-    "value": 28351
-  },
-  {
-    "label": "Salem Lutheran Church (Ponca, Nebraska)",
-    "value": 29707
-  },
-  {
-    "label": "Salem Lutheran Church (Smicksburg, Pennsylvania)",
-    "value": 27425
-  },
-  {
-    "label": "Samuel Ev Lutheran Church (Eagle Grove, Iowa)",
-    "value": 24025
-  },
-  {
-    "label": "Sattazahn Lutheran Church (Jonestown, Pennsylvania)",
-    "value": 28945
-  },
-  {
-    "label": "Servants of Christ Lutheran Church (Robins, Iowa)",
-    "value": 26956
-  },
-  {
-    "label": "Shepherd King Lutheran Church (Calgary, Alberta)",
-    "value": 24739
-  },
-  {
-    "label": "Shepherd of the Hills Lutheran Church (Dade City, Florida)",
-    "value": 20381
-  },
-  {
-    "label": "Shepherd of the Lakes Lutheran Church (Sayner, Wisconsin)",
-    "value": 29833
-  },
-  {
-    "label": "Shepherd of the Prairie Lutheran Church (Huxley, Iowa)",
-    "value": 23567
-  },
-  {
-    "label": "Shepherd of the River Church (New London, Wisconsin)",
-    "value": 24043
-  },
-  {
-    "label": "Shepherd of the Woods Lutheran Church (Jacksonville, Florida)",
-    "value": 27078
-  },
-  {
-    "label": "Shiloh Lutheran Church (Hickory, North Carolina)",
-    "value": 23922
-  },
-  {
-    "label": "Silverstreet Lutheran Church (Silverstreet, South Carolina)",
-    "value": 30413
-  },
-  {
-    "label": "Sinai Lutheran Church (Sinai, South Dakota)",
-    "value": 29890
-  },
-  {
-    "label": "Spirit of Truth Lutheran Church (Brandon, South Dakota)",
-    "value": 24647
-  },
-  {
-    "label": "Spring Valley Lutheran Church (Viborg, South Dakota)",
-    "value": 29046
-  },
-  {
-    "label": "Springdale Lutheran Church (West Sunbury, Pennsylvania)",
-    "value": 23985
-  },
-  {
-    "label": "St Albert Lutheran Church (St Albert, Alberta)",
-    "value": 24576
-  },
-  {
-    "label": "St Andrew By the Sea Ev Lutheran Church (Atlantic City, New Jersey)",
-    "value": 15986
-  },
-  {
-    "label": "St Elias Christian Church (Chicago, Illinois)",
-    "value": 25989
-  },
-  {
-    "label": "St Jacob's Lutheran Church (Chapin, South Carolina)",
-    "value": 23669
-  },
-  {
-    "label": "St Jacob's Lutheran Church (Glen Rock, Pennsylvania)",
-    "value": 23872
-  },
-  {
-    "label": "St James Ev Lutheran Church (Llano, Texas)",
-    "value": 25529
-  },
-  {
-    "label": "St James Ev Lutheran Church (Pitman, Pennsylvania)",
-    "value": 30380
-  },
-  {
-    "label": "St James Lutheran Church (Bedford, Pennsylvania)",
-    "value": 29523
-  },
-  {
-    "label": "St James Lutheran Church (Greenfield, Indiana)",
-    "value": 23186
-  },
-  {
-    "label": "St James Lutheran Church (Muncy, Pennsylvania)",
-    "value": 29299
-  },
-  {
-    "label": "St James Lutheran Church (Newton, North Carolina)",
-    "value": 23066
-  },
-  {
-    "label": "St James Lutheran Church (Payne, Ohio)",
-    "value": 20240
-  },
-  {
-    "label": "St James New Wehdem Lutheran Church (Brenham, Texas)",
-    "value": 29924
-  },
-  {
-    "label": "St John Ev Lutheran Church (Columbus, Ohio)",
-    "value": 23881
-  },
-  {
-    "label": "St John Ev Lutheran Church (Meyersville, Texas)",
-    "value": 22455
-  },
-  {
-    "label": "St John Ev Lutheran Church (Shelbyville, Illinois)",
-    "value": 29119
-  },
-  {
-    "label": "St John Ev Lutheran Church (West Alexandria, Ohio)",
-    "value": 29812
-  },
-  {
-    "label": "St John Lutheran Church (Boerne, Texas)",
-    "value": 23293
-  },
-  {
-    "label": "St John Lutheran Church (Boyden, Iowa)",
-    "value": 230
-  },
-  {
-    "label": "St John Lutheran Church (Greenville, Ohio)",
-    "value": 22481
-  },
-  {
-    "label": "St John Lutheran Church (Metropolis, Illinois)",
-    "value": 24516
-  },
-  {
-    "label": "St John Lutheran Church (Nanticoke, Pennsylvania)",
-    "value": 29823
-  },
-  {
-    "label": "St John Lutheran Church (Palmer, Iowa)",
-    "value": 24864
-  },
-  {
-    "label": "St John Lutheran Church (Phillips, Wisconsin)",
-    "value": 18174
-  },
-  {
-    "label": "St John Lutheran Church (Plainfield, Iowa)",
-    "value": 23288
-  },
-  {
-    "label": "St John Lutheran Church (Roanoke, Virginia)",
-    "value": 26608
-  },
-  {
-    "label": "St John Lutheran Church (Royal, Illinois)",
-    "value": 20337
-  },
-  {
-    "label": "St John Lutheran Church (Selby, South Dakota)",
-    "value": 23921
-  },
-  {
-    "label": "St John Lutheran Church (Shellbrook, Saskatchewan)",
-    "value": 29763
-  },
-  {
-    "label": "St John Lutheran Church Hopewell Twp (Celina, Ohio)",
-    "value": 20351
-  },
-  {
-    "label": "St John Lutheran Church Hubbells (Sunman, Indiana)",
-    "value": 29290
-  },
-  {
-    "label": "St John Lutheran Church of Lindenau (Cuero, Texas)",
-    "value": 29115
-  },
-  {
-    "label": "St John Lutheran Church of Prairie Hill (Brenham, Texas)",
-    "value": 29087
-  },
-  {
-    "label": "St John Lutheran Church of Westhoff (Westhoff, Texas)",
-    "value": 29113
-  },
-  {
-    "label": "St John's Ev Lutheran Church - Vilmar (Greene, Iowa)",
-    "value": 27900
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Barrhead, Alberta)",
-    "value": 24896
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Birdsboro, Pennsylvania)",
-    "value": 27783
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Cullom, Illinois)",
-    "value": 28532
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Flanagan, Illinois)",
-    "value": 23440
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Fredericksburg, Pennsylvania)",
-    "value": 23573
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Grove City, Ohio)",
-    "value": 22452
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Statesville, North Carolina)",
-    "value": 22462
-  },
-  {
-    "label": "St John's Ev Lutheran Church (Westboro, Missouri)",
-    "value": 23232
-  },
-  {
-    "label": "St John's Lutheran Church (Arroyo Grande, California)",
-    "value": 23070
-  },
-  {
-    "label": "St John's Lutheran Church (Asheboro, North Carolina)",
-    "value": 22463
-  },
-  {
-    "label": "St John's Lutheran Church (Creston, Illinois)",
-    "value": 29250
-  },
-  {
-    "label": "St John's Lutheran Church (Danforth, Illinois)",
-    "value": 22805
-  },
-  {
-    "label": "St John's Lutheran Church (Fort Wayne, Indiana)",
-    "value": 23184
-  },
-  {
-    "label": "St John's Lutheran Church (Goliad, Texas)",
-    "value": 23875
-  },
-  {
-    "label": "St John's Lutheran Church (Kittanning, Pennsylvania)",
-    "value": 23330
-  },
-  {
-    "label": "St John's Lutheran Church (Le Mars, Iowa)",
-    "value": 29358
-  },
-  {
-    "label": "St John's Lutheran Church (Montpelier, Ohio)",
-    "value": 23185
-  },
-  {
-    "label": "St John's Lutheran Church (Mount Gilead, Ohio)",
-    "value": 23938
-  },
-  {
-    "label": "St John's Lutheran Church (Sherwood Park, Alberta)",
-    "value": 25075
-  },
-  {
-    "label": "St John's Lutheran Church-Nekimi (Oshkosh, Wisconsin)",
-    "value": 18387
-  },
-  {
-    "label": "St Luke Lutheran Church (Bloomsburg, Pennsylvania)",
-    "value": 28331
-  },
-  {
-    "label": "St Luke's Ev Lutheran Church (Saxonburg, Pennsylvania)",
-    "value": 23278
-  },
-  {
-    "label": "St Luke's Lutheran Church (Colorado Springs, Colorado)",
-    "value": 20223
-  },
-  {
-    "label": "St Luke's Lutheran Church (Monroe, North Carolina)",
-    "value": 27355
-  },
-  {
-    "label": "St Mark Lutheran Church (Adrian, Pennsylvania)",
-    "value": 23666
-  },
-  {
-    "label": "St Mark Lutheran Church (Arona, Pennsylvania)",
-    "value": 24575
-  },
-  {
-    "label": "St Mark Lutheran Church (Fort Wayne, Indiana)",
-    "value": 23631
-  },
-  {
-    "label": "St Mark Lutheran Church (Seattle, Washington)",
-    "value": 23059
-  },
-  {
-    "label": "St Mark's Ev Lutheran Church (Butler, Pennsylvania)",
-    "value": 23585
-  },
-  {
-    "label": "St Mark's Ev Lutheran Church (Jefferson, Wisconsin)",
-    "value": 19933
-  },
-  {
-    "label": "St Mark's Ev Lutheran Church (Middleburgh, New York)",
-    "value": 23588
-  },
-  {
-    "label": "St Mark's Lutheran Church (Auburn, Indiana)",
-    "value": 23061
-  },
-  {
-    "label": "St Mark's Lutheran Church (Bedford, Pennsylvania)",
-    "value": 29524
-  },
-  {
-    "label": "St Mark's Lutheran Church (Salisbury, North Carolina)",
-    "value": 28113
-  },
-  {
-    "label": "St Mark's Lutheran Church (Uniondale, Indiana)",
-    "value": 23824
-  },
-  {
-    "label": "St Martin Lutheran Church (Atlanta, Georgia)",
-    "value": 28575
-  },
-  {
-    "label": "St Martin's Ev Lutheran Church (Maiden, North Carolina)",
-    "value": 23228
-  },
-  {
-    "label": "St Matthew Lutheran Church (Baltimore, Maryland)",
-    "value": 23579
-  },
-  {
-    "label": "St Matthew Lutheran Church (Logan, Ohio)",
-    "value": 25241
-  },
-  {
-    "label": "St Matthew Lutheran Church (Readlyn, Iowa)",
-    "value": 23571
-  },
-  {
-    "label": "St Matthew Lutheran Church of Sandy Hill (Brenham, Texas)",
-    "value": 24482
-  },
-  {
-    "label": "St Matthew's Ev Lutheran Church (Riverside, Missouri)",
-    "value": 23949
-  },
-  {
-    "label": "St Michael's Church (Hamburg, Pennsylvania)",
-    "value": 29112
-  },
-  {
-    "label": "St Paul Ev Lutheran Church (McConnellsburg, Pennsylvania)",
-    "value": 29698
-  },
-  {
-    "label": "St Paul Ev Lutheran Church (Sheldon, Iowa)",
-    "value": 23628
-  },
-  {
-    "label": "St Paul Ev Lutheran Church (Stoystown, Pennsylvania)",
-    "value": 29692
-  },
-  {
-    "label": "St Paul Lutheran Church (Bolivar, Ohio)",
-    "value": 23448
-  },
-  {
-    "label": "St Paul Lutheran Church (Burstall, Saskatchewan)",
-    "value": 29871
-  },
-  {
-    "label": "St Paul Lutheran Church (Cave Creek) (Fredericksburg, Texas)",
-    "value": 27037
-  },
-  {
-    "label": "St Paul Lutheran Church (Clyde, Ohio)",
-    "value": 23605
-  },
-  {
-    "label": "St Paul Lutheran Church (Crawford, Texas)",
-    "value": 30409
-  },
-  {
-    "label": "St Paul Lutheran Church (Evart, Michigan)",
-    "value": 16414
-  },
-  {
-    "label": "St Paul Lutheran Church (Irwin, Iowa)",
-    "value": 27647
-  },
-  {
-    "label": "St Paul Lutheran Church (Latrobe, Pennsylvania)",
-    "value": 23873
-  },
-  {
-    "label": "St Paul Lutheran Church (New Stanton, Pennsylvania)",
-    "value": 24574
-  },
-  {
-    "label": "St Paul Lutheran Church (Newcomerstown, Ohio)",
-    "value": 29235
-  },
-  {
-    "label": "St Paul Lutheran Church (Niceville, Florida)",
-    "value": 29582
-  },
-  {
-    "label": "St Paul Lutheran Church (Oregon, Illinois)",
-    "value": 22482
-  },
-  {
-    "label": "St Paul Lutheran Church (Pomaria, South Carolina)",
-    "value": 29634
-  },
-  {
-    "label": "St Paul Lutheran Church (Rosenberg, Texas)",
-    "value": 20623
-  },
-  {
-    "label": "St Paul Lutheran Church (Runge, Texas)",
-    "value": 23422
-  },
-  {
-    "label": "St Paul Lutheran Church (Seven Valleys, Pennsylvania)",
-    "value": 22905
-  },
-  {
-    "label": "St Paul Lutheran Church (Sulphur Springs, Ohio)",
-    "value": 23566
-  },
-  {
-    "label": "St Paul Lutheran Church (Watertown, Wisconsin)",
-    "value": 23670
-  },
-  {
-    "label": "St Paul Lutheran Church (York, Pennsylvania)",
-    "value": 24008
-  },
-  {
-    "label": "St Paul Lutheran Church (Yorktown, Texas)",
-    "value": 22451
-  },
-  {
-    "label": "St Paul Lutheran Church of Phillipsburg (Brenham, Texas)",
-    "value": 29925
-  },
-  {
-    "label": "St Paul's Ev Lutheran Church (Metropolis, Illinois)",
-    "value": 23183
-  },
-  {
-    "label": "St Paul's Ev Lutheran Church (Millersburg, Pennsylvania)",
-    "value": 25046
-  },
-  {
-    "label": "St Paul's Ev Lutheran Church (Sarver, Pennsylvania)",
-    "value": 23063
-  },
-  {
-    "label": "St Paul's Lutheran Church (Bucyrus, Ohio)",
-    "value": 23683
-  },
-  {
-    "label": "St Paul's Lutheran Church (Darrouzett, Texas)",
-    "value": 29923
-  },
-  {
-    "label": "St Paul's Lutheran Church (West Falls, New York)",
-    "value": 29701
-  },
-  {
-    "label": "St Peter Ev Lutheran Church (Monroeville, Ohio)",
-    "value": 22704
-  },
-  {
-    "label": "St Peter Lutheran Church (Chapin, South Carolina)",
-    "value": 23956
-  },
-  {
-    "label": "St Peter Lutheran Church (Doss, Texas)",
-    "value": 29038
-  },
-  {
-    "label": "St Peter Lutheran Church (Hallettsville, Texas)",
-    "value": 23587
-  },
-  {
-    "label": "St Peter Lutheran Church (Medicine Hat, Alberta)",
-    "value": 29839
-  },
-  {
-    "label": "St Peter Lutheran Church (Stettler, Alberta)",
-    "value": 25172
-  },
-  {
-    "label": "St Peter's Ev Lutheran Church (Lexington, South Carolina)",
-    "value": 25146
-  },
-  {
-    "label": "St Peter's Ev Lutheran Church (Winnipeg, Manitoba)",
-    "value": 24648
-  },
-  {
-    "label": "St Stephen Lutheran Church (Pittsburgh, Pennsylvania)",
-    "value": 23062
-  },
-  {
-    "label": "St Stephen Lutheran Church (Portland, Texas)",
-    "value": 23277
-  },
-  {
-    "label": "St Thomas Lutheran Church (Hooversville, Pennsylvania)",
-    "value": 20350
-  },
-  {
-    "label": "St Thomas Lutheran Church (Trufant, Michigan)",
-    "value": 24023
-  },
-  {
-    "label": "St Timothy Ev Lutheran Church (Camp Hill, Pennsylvania)",
-    "value": 24491
-  },
-  {
-    "label": "St Timothy Lutheran Church (Goose Creek, South Carolina)",
-    "value": 25039
-  },
-  {
-    "label": "St Timothy's Lutheran Church (San Jose, California)",
-    "value": 165
-  },
-  {
-    "label": "Stone Evangelical Lutheran Church (Ashland, Ohio)",
-    "value": 28224
-  },
-  {
-    "label": "Trinity Ev Lutheran Church (Abilene, Kansas)",
-    "value": 27682
-  },
-  {
-    "label": "Trinity Ev Lutheran Church (Johnstown, Pennsylvania)",
-    "value": 29242
-  },
-  {
-    "label": "Trinity Ev Lutheran Church (Joppa, Maryland)",
-    "value": 24617
-  },
-  {
-    "label": "Trinity Ev Lutheran Church (Lewiston, Idaho)",
-    "value": 23635
-  },
-  {
-    "label": "Trinity Ev Lutheran Church (Ponoka, Alberta)",
-    "value": 28935
-  },
-  {
-    "label": "Trinity Ev Lutheran Church (Smithsburg, Maryland)",
-    "value": 30191
-  },
-  {
-    "label": "Trinity Lutheran Church (Ashland, Ohio)",
-    "value": 23570
-  },
-  {
-    "label": "Trinity Lutheran Church (Ava, Missouri)",
-    "value": 20190
-  },
-  {
-    "label": "Trinity Lutheran Church (Avoca, Iowa)",
-    "value": 23607
-  },
-  {
-    "label": "Trinity Lutheran Church (Bedford, Pennsylvania)",
-    "value": 28649
-  },
-  {
-    "label": "Trinity Lutheran Church (Clarks Summit, Pennsylvania)",
-    "value": 28533
-  },
-  {
-    "label": "Trinity Lutheran Church (Concord, North Carolina)",
-    "value": 23869
-  },
-  {
-    "label": "Trinity Lutheran Church (Crestline, Ohio)",
-    "value": 27059
-  },
-  {
-    "label": "Trinity Lutheran Church (Dallas, Oregon)",
-    "value": 30346
-  },
-  {
-    "label": "Trinity Lutheran Church (Dauphin, Manitoba)",
-    "value": 24838
-  },
-  {
-    "label": "Trinity Lutheran Church (Ellsworth, Iowa)",
-    "value": 23610
-  },
-  {
-    "label": "Trinity Lutheran Church (Foremost, Alberta)",
-    "value": 25184
-  },
-  {
-    "label": "Trinity Lutheran Church (Gothenburg, Nebraska)",
-    "value": 23930
-  },
-  {
-    "label": "Trinity Lutheran Church (Great Bend, Kansas)",
-    "value": 26953
-  },
-  {
-    "label": "Trinity Lutheran Church (Hermiston, Oregon)",
-    "value": 29261
-  },
-  {
-    "label": "Trinity Lutheran Church (Jeromesville, Ohio)",
-    "value": 23593
-  },
-  {
-    "label": "Trinity Lutheran Church (Lake Norden, South Dakota)",
-    "value": 22331
-  },
-  {
-    "label": "Trinity Lutheran Church (Landis, North Carolina)",
-    "value": 22705
-  },
-  {
-    "label": "Trinity Lutheran Church (Logansport, Indiana)",
-    "value": 29922
-  },
-  {
-    "label": "Trinity Lutheran Church (Midland, South Dakota)",
-    "value": 22465
-  },
-  {
-    "label": "Trinity Lutheran Church (Monroeville, Ohio)",
-    "value": 23665
-  },
-  {
-    "label": "Trinity Lutheran Church (Saint Charles, Minnesota)",
-    "value": 28947
-  },
-  {
-    "label": "Trinity Lutheran Church (Shumway, Illinois)",
-    "value": 27896
-  },
-  {
-    "label": "Trinity Lutheran Church (Spencer, Iowa)",
-    "value": 15744
-  },
-  {
-    "label": "Trinity Lutheran Church (Springfield, Ohio)",
-    "value": 22119
-  },
-  {
-    "label": "Trinity Lutheran Church (Titusville, Florida)",
-    "value": 20301
-  },
-  {
-    "label": "Trinity Lutheran Church (Warrenton, Virginia)",
-    "value": 23950
-  },
-  {
-    "label": "Trondhjem Lutheran Church (Camrose County, Alberta)",
-    "value": 28362
-  },
-  {
-    "label": "Ullensvang Lutheran Church (Thor, Iowa)",
-    "value": 23447
-  },
-  {
-    "label": "Union Lutheran Church (Salisbury, North Carolina)",
-    "value": 23064
-  },
-  {
-    "label": "United Ev Lutheran Church of Swiss Alp (Schulenburg, Texas)",
-    "value": 30385
-  },
-  {
-    "label": "United Lutheran Church (Gatzke, Minnesota)",
-    "value": 28567
-  },
-  {
-    "label": "United Lutheran Church (Gonvick, Minnesota)",
-    "value": 23643
-  },
-  {
-    "label": "Unity Ev Lutheran Church (Des Moines, Iowa)",
-    "value": 28507
-  },
-  {
-    "label": "Upper Arlington Lutheran Church (Hilliard, Ohio)",
-    "value": 399
-  },
-  {
-    "label": "Valhalla Ev Lutheran Church (Valhalla Centre, Alberta)",
-    "value": 28482
-  },
-  {
-    "label": "Victory Lutheran Church (Medicine Hat, Alberta)",
-    "value": 30063
-  },
-  {
-    "label": "Vinemont Community Lutheran Church (Reinholds, Pennsylvania)",
-    "value": 23986
-  },
-  {
-    "label": "Waterloo Ridge Lutheran Church (Dorchester, Iowa)",
-    "value": 22466
-  },
-  {
-    "label": "Welcome Lutheran Church (Brenham, Texas)",
-    "value": 23060
-  },
-  {
-    "label": "West County Lutheran Church (Ellisville, Missouri)",
-    "value": 28635
-  },
-  {
-    "label": "Word of God Lutheran Church (Sharpsburg, Georgia)",
-    "value": 22710
-  },
-  {
-    "label": "Word of Life Lutheran Church (Vale, North Carolina)",
-    "value": 28342
-  },
-  {
-    "label": "Yeager Memorial Lutheran Church (Bedford, Pennsylvania)",
-    "value": 28988
-  },
-  {
-    "label": "Zion Ev Lutheran Church (Bow Island, Alberta)",
-    "value": 25183
-  },
-  {
-    "label": "Zion Ev Lutheran Church (Lafayette, Ohio)",
-    "value": 29910
-  },
-  {
-    "label": "Zion Ev Lutheran Church (Letart, West Virginia)",
-    "value": 23483
-  },
-  {
-    "label": "Zion Ev Lutheran Church (Rockford, Ohio)",
-    "value": 24027
-  },
-  {
-    "label": "Zion Ev Lutheran Church of Metropolitan (Felch, Michigan)",
-    "value": 29848
-  },
-  {
-    "label": "Zion Lutheran Church (Canwood, Saskatchewan)",
-    "value": 29764
-  },
-  {
-    "label": "Zion Lutheran Church (Caroline, Wisconsin)",
-    "value": 23324
-  },
-  {
-    "label": "Zion Lutheran Church (Chicora, Pennsylvania)",
-    "value": 23971
-  },
-  {
-    "label": "Zion Lutheran Church (Columbus, Ohio)",
-    "value": 23594
-  },
-  {
-    "label": "Zion Lutheran Church (Everest, Kansas)",
-    "value": 27562
-  },
-  {
-    "label": "Zion Lutheran Church (Fairport Harbor, Ohio)",
-    "value": 27897
-  },
-  {
-    "label": "Zion Lutheran Church (Philo, Illinois)",
-    "value": 22806
-  },
-  {
-    "label": "Zion Lutheran Church (Pittsburgh, Pennsylvania)",
-    "value": 16620
-  },
-  {
-    "label": "Zion Lutheran Church (Readlyn, Iowa)",
-    "value": 23577
-  },
-  {
-    "label": "Zion Lutheran Church (Ruthven, Iowa)",
-    "value": 23068
-  },
-  {
-    "label": "Zion Lutheran Church (Saint Marys, Ohio)",
-    "value": 23923
-  },
-  {
-    "label": "Zion Lutheran Church (Scotland, South Dakota)",
-    "value": 29255
-  },
-  {
-    "label": "Zion Lutheran Church (Skanee, Michigan)",
-    "value": 23421
-  },
-  {
-    "label": "Zion Lutheran Church (Stone Creek, Ohio)",
-    "value": 23746
-  },
-  {
-    "label": "Zion Lutheran Church, Inc (Beloit, Kansas)",
-    "value": 29694
-  },
-  {
-    "label": "Zoar Ev Lutheran Church (Lebanon, Pennsylvania)",
-    "value": 22706
-  }
-]
+{"label": "Abiding Savior Lutheran Church (Winter Haven, Florida)", "value": 23576},
+{"label": "Abiding Word Lutheran Church (Brenham, Texas)", "value": 25817},
+{"label": "Abounding Joy Lutheran Church (Saint Cloud, Minnesota)", "value": 24068},
+{"label": "Abundant Grace Lutheran Church (West Chester, Ohio)", "value": 28655},
+{"label": "Abundant Life Lutheran Church (Calgary, Alberta)", "value": 29519},
+{"label": "Abundant Life NALC (Hilliard, Ohio)", "value": 23963},
+{"label": "Adams Lutheran Church (Batesville, Indiana)", "value": 24522},
+{"label": "Advent Ev Lutheran Church (Hanahan, South Carolina)", "value": 24735},
+{"label": "Advent Lutheran Church (Kings Mountain, North Carolina)", "value": 23271},
+{"label": "Advent Lutheran Church (Winchester, Virginia)", "value": 22695},
+{"label": "All Saints Lutheran Church (Arlington, Texas)", "value": 23609},
+{"label": "Altalaha Ev Lutheran Church (Elverson, Pennsylvania)", "value": 28958},
+{"label": "American Ev Lutheran Church (Prescott, Arizona)", "value": 26977},
+{"label": "American Lutheran Church (Castlewood, South Dakota)", "value": 22711},
+{"label": "American Lutheran Church (Rantoul, Illinois)", "value": 16714},
+{"label": "Annapolis Ev Lutheran Church (Edgewater, Maryland)", "value": 23572},
+{"label": "Antioch Ev Lutheran Church (Dallas, North Carolina)", "value": 23638},
+{"label": "Antioch Lutheran Church (Hoagland, Indiana)", "value": 22468},
+{"label": "Ascension Lutheran Church (Calgary, Alberta)", "value": 22467},
+{"label": "Ascension Lutheran Church (Fond du Lac, Wisconsin)", "value": 29095},
+{"label": "Ascension Lutheran Church (Shiocton, Wisconsin)", "value": 23632},
+{"label": "Badger Lutheran Church (Badger, Iowa)", "value": 23565},
+{"label": "Badger Lutheran Church (Badger, South Dakota)", "value": 23482},
+{"label": "Bald Hill Lutheran Church (Bedford, Pennsylvania)", "value": 29522},
+{"label": "Bardo Lutheran Church (Tofield, Alberta)", "value": 29069},
+{"label": "Bethany Ev Lutheran Church (La Porte, Indiana)", "value": 29248},
+{"label": "Bethany Ev Lutheran Church (Laurens, Iowa)", "value": 23289},
+{"label": "Bethany Ev Lutheran Church (Montoursville, Pennsylvania)", "value": 25861},
+{"label": "Bethany Lutheran Church (Hawkins, Wisconsin)", "value": 23630},
+{"label": "Bethany Lutheran Church (Warren, Oregon)", "value": 28253},
+{"label": "Bethel Ethiopian Ev Fellowship (Alexandria, Virginia)", "value": 23689},
+{"label": "Bethel Lutheran Church (Bemidji, Minnesota)", "value": 22456},
+{"label": "Bethel Lutheran Church (Hawkins, Wisconsin)", "value": 23629},
+{"label": "Bethel Lutheran Church (Lincolnton, North Carolina)", "value": 22697},
+{"label": "Bethel Lutheran Church (Noblesville, Indiana)", "value": 24047},
+{"label": "Bethel Lutheran Church (Santa Maria, California)", "value": 23821},
+{"label": "Bethesda Lutheran Church (Wannaska, Minnesota)", "value": 23563},
+{"label": "Bethlehem Ev Lutheran Church (Outlook, Saskatchewan)", "value": 24563},
+{"label": "Bethlehem Lutheran Church (Harlan, Iowa)", "value": 27667},
+{"label": "Bethlehem Lutheran Church of Dalum (Drumheller, Alberta)", "value": 25609},
+{"label": "Black Forest Lutheran Church (Colorado Springs, Colorado)", "value": 23575},
+{"label": "Brighton Heights Lutheran Church (Pittsburgh, Pennsylvania)", "value": 22446},
+{"label": "Calvary Ev Lutheran Church (Edmonton, Alberta)", "value": 22807},
+{"label": "Calvary Lutheran Church (Brookfield, Wisconsin)", "value": 99},
+{"label": "Canby Lutheran Church (Bloomsburg, Pennsylvania)", "value": 28624},
+{"label": "Cedar Grove Lutheran Church (Leesville, South Carolina)", "value": 30064},
+{"label": "Chinese Lutheran Church (Honolulu, Hawaii)", "value": 26668},
+{"label": "Chinese Lutheran Church (Houston, Texas)", "value": 27989},
+{"label": "Christ Ev Lutheran Church (Womelsdorf, Pennsylvania)", "value": 26090},
+{"label": "Christ Is Lord Ministries (Fishers, Indiana)", "value": 24980},
+{"label": "Christ Lutheran Church (Chino, California)", "value": 24737},
+{"label": "Christ Lutheran Church (Cullman, Alabama)", "value": 28554},
+{"label": "Christ Lutheran Church (Dubois, Pennsylvania)", "value": 29481},
+{"label": "Christ Lutheran Church (Elderton, Pennsylvania)", "value": 23591},
+{"label": "Christ Lutheran Church (Saint Petersburg, Florida)", "value": 20383},
+{"label": "Christ Lutheran Church (Santa Clarita, California)", "value": 29576},
+{"label": "Christ Lutheran Church (Scituate, Massachusetts)", "value": 29697},
+{"label": "Christ Lutheran Church (Warren, Michigan)", "value": 24007},
+{"label": "Christ Rupp Lutheran Church (Kittanning, Pennsylvania)", "value": 27061},
+{"label": "Christ the King Lutheran Church (De Soto, Illinois)", "value": 23589},
+{"label": "Christ the King Lutheran Church (Evans, Georgia)", "value": 17882},
+{"label": "Christ the King Lutheran Church (Newcastle, Wyoming)", "value": 18121},
+{"label": "Christ the King Lutheran Church (Yankton, South Dakota)", "value": 22474},
+{"label": "Christ United Lutheran Church (Granite Falls, North Carolina)", "value": 23878},
+{"label": "Christ's Ev Lutheran Church (Stanley, North Carolina)", "value": 26172},
+{"label": "Christiana Lutheran Church (Salisbury, North Carolina)", "value": 16406},
+{"label": "Christina Lake Lutheran Church (Evansville, Minnesota)", "value": 26123},
+{"label": "Church of the Apostles Lutheran (North Tonawanda, New York)", "value": 25991},
+{"label": "Church of the Good Shepherd (Florence, Alabama)", "value": 30404},
+{"label": "Church of the Living God (Houston, Texas)", "value": 23649},
+{"label": "Community of Faith Church (West Linn, Oregon)", "value": 29292},
+{"label": "Concordia Lutheran Church (China Grove, North Carolina)", "value": 23065},
+{"label": "Concordia Lutheran Church (Kingsburg, California)", "value": 23385},
+{"label": "County Line Lutheran Church (Markesan, Wisconsin)", "value": 28301},
+{"label": "Cross Ev Lutheran Church (Pigeon, Michigan)", "value": 23580},
+{"label": "Cross of Christ Lutheran Church (Concord, North Carolina)", "value": 22442},
+{"label": "Denny Park Lutheran Church (Seattle, Washington)", "value": 23285},
+{"label": "Desert Springs Lutheran Church (Truth Or Consequences, New Mexico)", "value": 29438},
+{"label": "Eagle Grove Ev Lutheran Church (Eagle Grove, Iowa)", "value": 23569},
+{"label": "Ebenezer Oromo Ev Church (Riverside, Missouri)", "value": 26387},
+{"label": "Emanuel Lutheran Church (Elmer, New Jersey)", "value": 26731},
+{"label": "Emmanuel Ev Lutheran Church (Pasadena, Maryland)", "value": 20382},
+{"label": "Emmanuel Lutheran Church (Export, Pennsylvania)", "value": 23667},
+{"label": "Emmanuel Lutheran Church (Grafton, Iowa)", "value": 20303},
+{"label": "Emmanuel Lutheran Church (Rochester, Minnesota)", "value": 24521},
+{"label": "Emmanuel Lutheran Church (State College, Pennsylvania)", "value": 27160},
+{"label": "Emmanuel Lutheran Church of Northwest Arkansas (Fayetteville, Arkansas)", "value": 26622},
+{"label": "Emmons Lutheran Church (Emmons, Minnesota)", "value": 24024},
+{"label": "English Ev Lutheran Church (Zelienople, Pennsylvania)", "value": 29201},
+{"label": "Epiphany Lutheran Church (Gonzalez, Florida)", "value": 29096},
+{"label": "Evaline Lutheran Church (Pittsburgh, Pennsylvania)", "value": 25644},
+{"label": "Evangelical Lutheran Church (Mankato, Kansas)", "value": 23952},
+{"label": "Faith Community Lutheran Church (Longmont, Colorado)", "value": 22790},
+{"label": "Faith Ev Lutheran Church (Calgary, Alberta)", "value": 26052},
+{"label": "Faith Ev Lutheran Church (Faith, North Carolina)", "value": 23936},
+{"label": "Faith in Christ Lutheran Church (Springfield, Ohio)", "value": 23564},
+{"label": "Faith Lutheran Church (Cincinnati, Ohio)", "value": 26578},
+{"label": "Faith Lutheran Church (Dannebrog, Nebraska)", "value": 23275},
+{"label": "Faith Lutheran Church (Mentor, Minnesota)", "value": 22829},
+{"label": "Faith Lutheran Church (Millersburg, Ohio)", "value": 23664},
+{"label": "Faith Lutheran Church (Monona, Iowa)", "value": 23182},
+{"label": "Faith Lutheran Church (Sturgeon Lake, Minnesota)", "value": 23276},
+{"label": "Faith Lutheran Church (Wilmington, North Carolina)", "value": 28607},
+{"label": "Falls Community Church (Sioux Falls, South Dakota)", "value": 23590},
+{"label": "First English Ev Lutheran Church (Baker City, Oregon)", "value": 17083},
+{"label": "First English Lutheran Church (Lennox, South Dakota)", "value": 24582},
+{"label": "First English Lutheran Church (Mansfield, Ohio)", "value": 23227},
+{"label": "First English Lutheran Church (Marysville, Ohio)", "value": 23481},
+{"label": "First English Lutheran Church (Wapakoneta, Ohio)", "value": 29824},
+{"label": "First Ev Lutheran Church (Floresville, Texas)", "value": 23424},
+{"label": "First Ev Lutheran Church (Gonzales, Texas)", "value": 29577},
+{"label": "First Ev Lutheran Church (Idaho Falls, Idaho)", "value": 29042},
+{"label": "First Ev Lutheran Church (Iron Mountain, Michigan)", "value": 29911},
+{"label": "First Ev Lutheran Church (Leipsic, Ohio)", "value": 17079},
+{"label": "First Ev Lutheran Church (Manchester, Iowa)", "value": 24573},
+{"label": "First Ev Lutheran Church (Paxton, Illinois)", "value": 17781},
+{"label": "First Ev Lutheran Church (Ridgway, Pennsylvania)", "value": 27202},
+{"label": "First Ev Lutheran Church (West Palm Beach, Florida)", "value": 23479},
+{"label": "First Ev Lutheran Church of Gray Manor (Dundalk, Maryland)", "value": 24736},
+{"label": "First Lutheran Church (Burnet, Texas)", "value": 29771},
+{"label": "First Lutheran Church (Gilmore City, Iowa)", "value": 23953},
+{"label": "First Lutheran Church (Houston, Texas)", "value": 23945},
+{"label": "First Lutheran Church (Kirkland, Illinois)", "value": 16517},
+{"label": "First Lutheran Church (Miles City, Montana)", "value": 28176},
+{"label": "First Lutheran Church (Ottumwa, Iowa)", "value": 30128},
+{"label": "First Lutheran Church (Philip, South Dakota)", "value": 22712},
+{"label": "First Lutheran Church (Pontiac, Illinois)", "value": 23269},
+{"label": "First Lutheran Church (Rock Port, Missouri)", "value": 23918},
+{"label": "First Lutheran Church (Rural Valley, Pennsylvania)", "value": 22795},
+{"label": "First Lutheran Church (Saint Ansgar, Iowa)", "value": 23870},
+{"label": "First Lutheran Church (Troy, Ohio)", "value": 23608},
+{"label": "First Lutheran Church (Washburn, North Dakota)", "value": 22707},
+{"label": "First Lutheran Church (Washington, Pennsylvania)", "value": 23574},
+{"label": "First St Paul's Lutheran Church (Burlington, Colorado)", "value": 29110},
+{"label": "First United Ev Lutheran Church (Hammond, Indiana)", "value": 23937},
+{"label": "Franklin Lutheran Church (Soldiers Grove, Wisconsin)", "value": 28558},
+{"label": "Freemount Lutheran Church (Lindsborg, Kansas)", "value": 23606},
+{"label": "Friedens Lutheran Church Stony Run (Kempton, Pennsylvania)", "value": 29847},
+{"label": "Friends Home Ev Lutheran Church (Savonburg, Kansas)", "value": 29706},
+{"label": "Glen Flora Lutheran Church (Glen Flora, Wisconsin)", "value": 23925},
+{"label": "Good Hope Lutheran Church (Youngstown, Ohio)", "value": 24793},
+{"label": "Good Shepherd Chinese Lutheran Church (Edmonton, Alberta)", "value": 29566},
+{"label": "Good Shepherd Ev Lutheran Church (Bloomfield, Nebraska)", "value": 26568},
+{"label": "Good Shepherd Ev Lutheran Church (Manistee, Michigan)", "value": 23662},
+{"label": "Good Shepherd Lutheran Church (Lake Wilson, Minnesota)", "value": 29788},
+{"label": "Good Shepherd Lutheran Church (Vickery, Ohio)", "value": 23917},
+{"label": "Grace Ev Lutheran Church (Bessemer City, North Carolina)", "value": 23663},
+{"label": "Grace Ev Lutheran Church (Jackson Center, Ohio)", "value": 23757},
+{"label": "Grace Ev Lutheran Church (Newton, North Carolina)", "value": 20327},
+{"label": "Grace Ev Lutheran Church (Springfield, Ohio)", "value": 22698},
+{"label": "Grace Ev Lutheran Church (Washington, North Carolina)", "value": 23226},
+{"label": "Grace Ev Lutheran Church (West Carrollton, Ohio)", "value": 23586},
+{"label": "Grace Ev Lutheran Church (Westerville, Ohio)", "value": 27440},
+{"label": "Grace Lutheran Church (Eaton, Ohio)", "value": 20250},
+{"label": "Grace Lutheran Church (Enterprise, Oregon)", "value": 28161},
+{"label": "Grace Lutheran Church (Erskine, Minnesota)", "value": 22114},
+{"label": "Grace Lutheran Church (Huntington Beach, California)", "value": 23671},
+{"label": "Grace Lutheran Church (Menno, South Dakota)", "value": 23583},
+{"label": "Grace Lutheran Church (Pittsburgh, Pennsylvania)", "value": 22433},
+{"label": "Grace Lutheran Church (Ridgecrest, California)", "value": 314},
+{"label": "Grace Lutheran Church (Thornville, Ohio)", "value": 23312},
+{"label": "Grace Lutheran Church of Winston-Salem (Clemmons, North Carolina)", "value": 27185},
+{"label": "Granum Lutheran Church (Granum, Alberta)", "value": 25672},
+{"label": "Greenford Lutheran Church (Greenford, Ohio)", "value": 29489},
+{"label": "Groveport Zion Lutheran Church (Groveport, Ohio)", "value": 23823},
+{"label": "Hayti Lutheran Church (Hayti, South Dakota)", "value": 23073},
+{"label": "Heritage Lutheran Church (Baltic, South Dakota)", "value": 28112},
+{"label": "Heritage Lutheran Church (Brandon, South Dakota)", "value": 23075},
+{"label": "Hillside Community Lutheran Church (Spring Hill, Kansas)", "value": 29445},
+{"label": "His Light Ministries / Ministerio SU Luz (Miami, Florida)", "value": 20300},
+{"label": "Holy Cross Ev Lutheran Church (Bethlehem, Pennsylvania)", "value": 23317},
+{"label": "Holy Cross Ev Lutheran Church (Nazareth, Pennsylvania)", "value": 24035},
+{"label": "Holy Cross Ev Lutheran Church (Pacifica, California)", "value": 28593},
+{"label": "Holy Ghost Lutheran Church (Fredericksburg, Texas)", "value": 22699},
+{"label": "Holy Trinity Ev Lutheran Church (Abington, Pennsylvania)", "value": 16641},
+{"label": "Holy Trinity Ev Lutheran Church (Berlin, Pennsylvania)", "value": 22476},
+{"label": "Holy Trinity Ev Lutheran Church (Gastonia, North Carolina)", "value": 22450},
+{"label": "Holy Trinity Ev Lutheran Church (Grove City, Pennsylvania)", "value": 26173},
+{"label": "Holy Trinity Ev Lutheran Church (Troutman, North Carolina)", "value": 22470},
+{"label": "Holy Trinity Lutheran Church (Kettle River, Minnesota)", "value": 23377},
+{"label": "Holy Trinity Lutheran Church (Little Mountain, South Carolina)", "value": 24515},
+{"label": "Holy Trinity Lutheran Church (Mansfield, Ohio)", "value": 22827},
+{"label": "Holy Trinity Lutheran Church (North Augusta, South Carolina)", "value": 26089},
+{"label": "Holy Trinity Lutheran Church (Spokane Valley, Washington)", "value": 29822},
+{"label": "Hope Lutheran Church (Cedar Hill, Texas)", "value": 17331},
+{"label": "Hope Lutheran Church (Hubbard Lake, Michigan)", "value": 23924},
+{"label": "Hope Lutheran Church (Ladysmith, Wisconsin)", "value": 23920},
+{"label": "Hope Lutheran Church (Smethport, Pennsylvania)", "value": 23582},
+{"label": "Hope Lutheran Church (Westminster, California)", "value": 24589},
+{"label": "Hopeful Lutheran Church (Florence, Kentucky)", "value": 30129},
+{"label": "House of Prayer Lutheran Church (Elizabethtown, Kentucky)", "value": 23074},
+{"label": "Iglesia Luterana la Transfiguracion (Irving, Texas)", "value": 27472},
+{"label": "Iglesia Luterana San Miguel (Fort Worth, Texas)", "value": 27003},
+{"label": "Immanuel Ev Lutheran Church (Fresno, California)", "value": 173},
+{"label": "Immanuel Ev Lutheran Church (New York City, New York)", "value": 26483},
+{"label": "Immanuel Lutheran Church (Altona, Illinois)", "value": 20622},
+{"label": "Immanuel Lutheran Church (Crosby, Minnesota)", "value": 22434},
+{"label": "Immanuel Lutheran Church (La Vernia, Texas)", "value": 23423},
+{"label": "Immanuel Lutheran Church (Sumter, South Carolina)", "value": 23868},
+{"label": "Immanuel Lutheran Church (Thomasboro, Illinois)", "value": 18494},
+{"label": "Immanuel Lutheran Church (Whitewood, South Dakota)", "value": 17824},
+{"label": "Immanuel Lutheran Church of Lebanon (Watertown, Wisconsin)", "value": 23187},
+{"label": "Journey of Faith Lutheran Church (North Ridgeville, Ohio)", "value": 23919},
+{"label": "Joy Lutheran Church (Escanaba, Michigan)", "value": 29260},
+{"label": "Joy Lutheran Church (Richmond, Texas)", "value": 22471},
+{"label": "Joy Lutheran Church (Rockwall, Texas)", "value": 29212},
+{"label": "Joy Lutheran Church (Winnipeg, Manitoba)", "value": 24562},
+{"label": "Joy Mission Church (Lexington, South Carolina)", "value": 28030},
+{"label": "Lake Campbell Lutheran Church (Volga, South Dakota)", "value": 29872},
+{"label": "Lake Preston Lutheran Church (Lake Preston, South Dakota)", "value": 29935},
+{"label": "Lamb of God Lutheran Church (Simpsonville, South Carolina)", "value": 27386},
+{"label": "Leaf Mountain Lutheran Church (Clitherall, Minnesota)", "value": 26862},
+{"label": "Lebanon Lutheran Church (Lebanon Church, Virginia)", "value": 22708},
+{"label": "Life Stream Oromo Ev Church (Chicago, Illinois)", "value": 22801},
+{"label": "Living Faith Lutheran Church (Red Deer, Alberta)", "value": 24979},
+{"label": "Living Faith Lutheran Church (Wabash, Indiana)", "value": 23578},
+{"label": "Living Hope Lutheran Church (Farwell, Michigan)", "value": 22701},
+{"label": "Living Water Lutheran Church (Centerville, Ohio)", "value": 23274},
+{"label": "Living Word International Christian Church (Saint Paul, Minnesota)", "value": 26153},
+{"label": "Living Word Lutheran Church (Rogers, Arkansas)", "value": 27890},
+{"label": "Lord of All Lutheran Church (Strathmore, Alberta)", "value": 24810},
+{"label": "Lord of Life Lutheran Church (Memphis, Tennessee)", "value": 23280},
+{"label": "Lord of Life Lutheran Church (Oconomowoc, Wisconsin)", "value": 27058},
+{"label": "Lutheran Church of the Atonement (Wilkesboro, North Carolina)", "value": 23480},
+{"label": "Lutheran Church of the Valley (Harrisonburg, Virginia)", "value": 29262},
+{"label": "Maria Lutheran Church (Hershey, Nebraska)", "value": 28087},
+{"label": "Marion Lutheran Church (Saint Olaf, Iowa)", "value": 16519},
+{"label": "Martin Luther Lutheran Church (Johnson, Nebraska)", "value": 26514},
+{"label": "Mayer Memorial Lutheran Church (Newberry, South Carolina)", "value": 23946},
+{"label": "Messiah Lutheran Church (Lebanon, Pennsylvania)", "value": 23668},
+{"label": "Messiah Lutheran Church (Roscommon, Michigan)", "value": 29881},
+{"label": "Midway Lutheran Church (Brookings, South Dakota)", "value": 29569},
+{"label": "Miller's Lutheran Church (Hickory, North Carolina)", "value": 22826},
+{"label": "Mission in Christ Lutheran Church (Strawberry Point, Iowa)", "value": 22716},
+{"label": "Missouri Micronesian Church (Riverside, Missouri)", "value": 26832},
+{"label": "Mount Calvary Lutheran Church (Claremont, North Carolina)", "value": 22478},
+{"label": "Mount Union Lutheran Church (Elderton, Pennsylvania)", "value": 23592},
+{"label": "Mount Union Lutheran Church (Taneytown, Maryland)", "value": 26876},
+{"label": "Mount Zion Lutheran Church (Lucas, Ohio)", "value": 24738},
+{"label": "Mount Zion Lutheran Church (Somerset, Pennsylvania)", "value": 29502},
+{"label": "Mt Tabor Ev Lutheran Church (Little Mountain, South Carolina)", "value": 30399},
+{"label": "Nazareth Ev Lutheran Church (Cedar Falls, Iowa)", "value": 54},
+{"label": "Nazareth Lutheran Church (Rural Hall, North Carolina)", "value": 27674},
+{"label": "New Beginnings Lutheran Church (Mahomet, Illinois)", "value": 24775},
+{"label": "New Covenant Lutheran Church (Morganton, North Carolina)", "value": 28477},
+{"label": "New Hope Lutheran Church (Circle, Montana)", "value": 28985},
+{"label": "New Hope Lutheran Church (Foresthill, California)", "value": 28538},
+{"label": "New Hope Lutheran Church (Hayti, South Dakota)", "value": 23067},
+{"label": "New Hope Lutheran Church (Irmo, South Carolina)", "value": 25691},
+{"label": "New Hope Lutheran Church (Kannapolis, North Carolina)", "value": 28662},
+{"label": "New Jerusalem Lutheran Church (Hickory, North Carolina)", "value": 22115},
+{"label": "New Life Lutheran Church (Gallipolis, Ohio)", "value": 22908},
+{"label": "New Life Lutheran Church (Menomonie, Wisconsin)", "value": 23598},
+{"label": "Nile Evangelical Church (Rochester, New York)", "value": 22709},
+{"label": "North Preston Lutheran Church (Lake Preston, South Dakota)", "value": 29936},
+{"label": "Norway Lutheran Church (Saint Olaf, Iowa)", "value": 16518},
+{"label": "Oakland Lutheran Church (Mansfield, Ohio)", "value": 22440},
+{"label": "OASIS Church (Lake Mary, Florida)", "value": 22694},
+{"label": "Old East Paint Creek Lutheran Church (Waterville, Iowa)", "value": 16378},
+{"label": "Old West Paint Creek Lutheran Church (Waukon, Iowa)", "value": 16379},
+{"label": "Organ Lutheran Church (Salisbury, North Carolina)", "value": 23604},
+{"label": "Oromo Ev Church of Atlanta (Dacula, Georgia)", "value": 29813},
+{"label": "Oromo Ev Church of Denver (Aurora, Colorado)", "value": 22797},
+{"label": "Oromo Evangelical Church (Baltimore, Ohio)", "value": 25709},
+{"label": "Oromo Evangelical Church (Houston, Texas)", "value": 23822},
+{"label": "Our Savior Lutheran Church (Auburn, California)", "value": 26212},
+{"label": "Our Savior Lutheran Church (Three Rivers, Texas)", "value": 22479},
+{"label": "Our Savior's Community Lutheran Church (Hussar, Alberta)", "value": 25608},
+{"label": "Our Savior's Ev Lutheran Church (Scandia, Kansas)", "value": 27927},
+{"label": "Our Savior's Lutheran Church (Menno, South Dakota)", "value": 23584},
+{"label": "Our Savior's Lutheran Church (Salem, Oregon)", "value": 23845},
+{"label": "Our Savior's Lutheran Church (Viborg, South Dakota)", "value": 29045},
+{"label": "Our Saviour Lutheran Church (Dallas, North Carolina)", "value": 23651},
+{"label": "Our Saviour's Lutheran Church (Ackley, Iowa)", "value": 22443},
+{"label": "Our Saviour's Lutheran Church (Iron Mountain, Michigan)", "value": 26358},
+{"label": "Our Saviour's Lutheran Church (Tyler, Texas)", "value": 16570},
+{"label": "Peace Lutheran Church (Claresholm, Alberta)", "value": 25043},
+{"label": "Peace Lutheran Church (Clifton, Texas)", "value": 23882},
+{"label": "Peace Lutheran Church (Connersville, Indiana)", "value": 20261},
+{"label": "Peace Lutheran Church (Devils Lake, North Dakota)", "value": 22702},
+{"label": "Peace Lutheran Church (Edmond, Oklahoma)", "value": 22804},
+{"label": "Peace Lutheran Church (Fort St John, British Columbia)", "value": 24587},
+{"label": "Peace Lutheran Church (Gibsonville, North Carolina)", "value": 29060},
+{"label": "Peace Lutheran Church (Northwood, Iowa)", "value": 23644},
+{"label": "Peace Lutheran Church (Rockdale, Texas)", "value": 22828},
+{"label": "Peace Lutheran Church (Rosenberg, Texas)", "value": 23069},
+{"label": "Peace Lutheran Church (Saint Joseph, Michigan)", "value": 23453},
+{"label": "Peace Lutheran Church (Sullivan, Missouri)", "value": 29494},
+{"label": "Peace Lutheran Church (Tigerton, Wisconsin)", "value": 23072},
+{"label": "Pine Grove Lutheran Church (Wannaska, Minnesota)", "value": 26968},
+{"label": "Pleasant Union Lutheran Church (Kittanning, Pennsylvania)", "value": 23656},
+{"label": "Port Madison Lutheran Church (Rollingbay, Washington)", "value": 23957},
+{"label": "Prince of Peace Lutheran Church (Casper, Wyoming)", "value": 24074},
+{"label": "Prince of Peace Lutheran Church (Everett, Washington)", "value": 23443},
+{"label": "Prince of Peace Lutheran Church (Fayetteville, Georgia)", "value": 22715},
+{"label": "Prince of Peace Lutheran Church (Saint Joseph, Illinois)", "value": 22480},
+{"label": "Redeemer Lutheran Church (Owosso, Michigan)", "value": 22472},
+{"label": "Reformation Church (Middlebury, Indiana)", "value": 28632},
+{"label": "Reformation Lutheran Church (Culpeper, Virginia)", "value": 22703},
+{"label": "Reformation Lutheran Church (Lancaster, Pennsylvania)", "value": 23596},
+{"label": "Reformation Lutheran Church (Westminster, California)", "value": 23874},
+{"label": "Resurrection Lutheran Church (Port Clinton, Ohio)", "value": 16696},
+{"label": "Resurrection Lutheran Church (Wooster, Ohio)", "value": 23611},
+{"label": "Rindal Lutheran Church (Viking, Minnesota)", "value": 23672},
+{"label": "Risen Lord Lutheran Church (Edmonton, Alberta)", "value": 24577},
+{"label": "River's Edge Ministries (Mount Airy, Maryland)", "value": 23270},
+{"label": "Riverside Lutheran Church (Wannaska, Minnesota)", "value": 22713},
+{"label": "Sacred Word Lutheran Church (Mobridge, South Dakota)", "value": 25613},
+{"label": "Salem Ev Lutheran Church (Axtell, Kansas)", "value": 23296},
+{"label": "Salem Ev Lutheran Church (Brenham, Texas)", "value": 29014},
+{"label": "Salem Ev Lutheran Church (Salisbury, North Carolina)", "value": 23652},
+{"label": "Salem Ev Lutheran Church (West Alexandria, Ohio)", "value": 27182},
+{"label": "Salem Evans Creek Lutheran Church (Stone Creek, Ohio)", "value": 23745},
+{"label": "Salem Lutheran Church (Bark River, Michigan)", "value": 23268},
+{"label": "Salem Lutheran Church (Elizabethville, Pennsylvania)", "value": 26548},
+{"label": "Salem Lutheran Church (Kingman, Alberta)", "value": 28351},
+{"label": "Salem Lutheran Church (Ponca, Nebraska)", "value": 29707},
+{"label": "Salem Lutheran Church (Smicksburg, Pennsylvania)", "value": 27425},
+{"label": "Samuel Ev Lutheran Church (Eagle Grove, Iowa)", "value": 24025},
+{"label": "Sattazahn Lutheran Church (Jonestown, Pennsylvania)", "value": 28945},
+{"label": "Servants of Christ Lutheran Church (Robins, Iowa)", "value": 26956},
+{"label": "Shepherd King Lutheran Church (Calgary, Alberta)", "value": 24739},
+{"label": "Shepherd of the Hills Lutheran Church (Dade City, Florida)", "value": 20381},
+{"label": "Shepherd of the Lakes Lutheran Church (Sayner, Wisconsin)", "value": 29833},
+{"label": "Shepherd of the Prairie Lutheran Church (Huxley, Iowa)", "value": 23567},
+{"label": "Shepherd of the River Church (New London, Wisconsin)", "value": 24043},
+{"label": "Shepherd of the Woods Lutheran Church (Jacksonville, Florida)", "value": 27078},
+{"label": "Shiloh Lutheran Church (Hickory, North Carolina)", "value": 23922},
+{"label": "Silverstreet Lutheran Church (Silverstreet, South Carolina)", "value": 30413},
+{"label": "Sinai Lutheran Church (Sinai, South Dakota)", "value": 29890},
+{"label": "Spirit of Truth Lutheran Church (Brandon, South Dakota)", "value": 24647},
+{"label": "Spring Valley Lutheran Church (Viborg, South Dakota)", "value": 29046},
+{"label": "Springdale Lutheran Church (West Sunbury, Pennsylvania)", "value": 23985},
+{"label": "St Albert Lutheran Church (St Albert, Alberta)", "value": 24576},
+{"label": "St Andrew By the Sea Ev Lutheran Church (Atlantic City, New Jersey)", "value": 15986},
+{"label": "St Elias Christian Church (Chicago, Illinois)", "value": 25989},
+{"label": "St Jacob's Lutheran Church (Chapin, South Carolina)", "value": 23669},
+{"label": "St Jacob's Lutheran Church (Glen Rock, Pennsylvania)", "value": 23872},
+{"label": "St James Ev Lutheran Church (Llano, Texas)", "value": 25529},
+{"label": "St James Ev Lutheran Church (Pitman, Pennsylvania)", "value": 30380},
+{"label": "St James Lutheran Church (Bedford, Pennsylvania)", "value": 29523},
+{"label": "St James Lutheran Church (Greenfield, Indiana)", "value": 23186},
+{"label": "St James Lutheran Church (Muncy, Pennsylvania)", "value": 29299},
+{"label": "St James Lutheran Church (Newton, North Carolina)", "value": 23066},
+{"label": "St James Lutheran Church (Payne, Ohio)", "value": 20240},
+{"label": "St James New Wehdem Lutheran Church (Brenham, Texas)", "value": 29924},
+{"label": "St John Ev Lutheran Church (Columbus, Ohio)", "value": 23881},
+{"label": "St John Ev Lutheran Church (Meyersville, Texas)", "value": 22455},
+{"label": "St John Ev Lutheran Church (Shelbyville, Illinois)", "value": 29119},
+{"label": "St John Ev Lutheran Church (West Alexandria, Ohio)", "value": 29812},
+{"label": "St John Lutheran Church (Boerne, Texas)", "value": 23293},
+{"label": "St John Lutheran Church (Boyden, Iowa)", "value": 230},
+{"label": "St John Lutheran Church (Greenville, Ohio)", "value": 22481},
+{"label": "St John Lutheran Church (Metropolis, Illinois)", "value": 24516},
+{"label": "St John Lutheran Church (Nanticoke, Pennsylvania)", "value": 29823},
+{"label": "St John Lutheran Church (Palmer, Iowa)", "value": 24864},
+{"label": "St John Lutheran Church (Phillips, Wisconsin)", "value": 18174},
+{"label": "St John Lutheran Church (Plainfield, Iowa)", "value": 23288},
+{"label": "St John Lutheran Church (Roanoke, Virginia)", "value": 26608},
+{"label": "St John Lutheran Church (Royal, Illinois)", "value": 20337},
+{"label": "St John Lutheran Church (Selby, South Dakota)", "value": 23921},
+{"label": "St John Lutheran Church (Shellbrook, Saskatchewan)", "value": 29763},
+{"label": "St John Lutheran Church Hopewell Twp (Celina, Ohio)", "value": 20351},
+{"label": "St John Lutheran Church Hubbells (Sunman, Indiana)", "value": 29290},
+{"label": "St John Lutheran Church of Lindenau (Cuero, Texas)", "value": 29115},
+{"label": "St John Lutheran Church of Prairie Hill (Brenham, Texas)", "value": 29087},
+{"label": "St John Lutheran Church of Westhoff (Westhoff, Texas)", "value": 29113},
+{"label": "St John's Ev Lutheran Church - Vilmar (Greene, Iowa)", "value": 27900},
+{"label": "St John's Ev Lutheran Church (Barrhead, Alberta)", "value": 24896},
+{"label": "St John's Ev Lutheran Church (Birdsboro, Pennsylvania)", "value": 27783},
+{"label": "St John's Ev Lutheran Church (Cullom, Illinois)", "value": 28532},
+{"label": "St John's Ev Lutheran Church (Flanagan, Illinois)", "value": 23440},
+{"label": "St John's Ev Lutheran Church (Fredericksburg, Pennsylvania)", "value": 23573},
+{"label": "St John's Ev Lutheran Church (Grove City, Ohio)", "value": 22452},
+{"label": "St John's Ev Lutheran Church (Statesville, North Carolina)", "value": 22462},
+{"label": "St John's Ev Lutheran Church (Westboro, Missouri)", "value": 23232},
+{"label": "St John's Lutheran Church (Arroyo Grande, California)", "value": 23070},
+{"label": "St John's Lutheran Church (Asheboro, North Carolina)", "value": 22463},
+{"label": "St John's Lutheran Church (Creston, Illinois)", "value": 29250},
+{"label": "St John's Lutheran Church (Danforth, Illinois)", "value": 22805},
+{"label": "St John's Lutheran Church (Fort Wayne, Indiana)", "value": 23184},
+{"label": "St John's Lutheran Church (Goliad, Texas)", "value": 23875},
+{"label": "St John's Lutheran Church (Kittanning, Pennsylvania)", "value": 23330},
+{"label": "St John's Lutheran Church (Le Mars, Iowa)", "value": 29358},
+{"label": "St John's Lutheran Church (Montpelier, Ohio)", "value": 23185},
+{"label": "St John's Lutheran Church (Mount Gilead, Ohio)", "value": 23938},
+{"label": "St John's Lutheran Church (Sherwood Park, Alberta)", "value": 25075},
+{"label": "St John's Lutheran Church-Nekimi (Oshkosh, Wisconsin)", "value": 18387},
+{"label": "St Luke Lutheran Church (Bloomsburg, Pennsylvania)", "value": 28331},
+{"label": "St Luke's Ev Lutheran Church (Saxonburg, Pennsylvania)", "value": 23278},
+{"label": "St Luke's Lutheran Church (Colorado Springs, Colorado)", "value": 20223},
+{"label": "St Luke's Lutheran Church (Monroe, North Carolina)", "value": 27355},
+{"label": "St Mark Lutheran Church (Adrian, Pennsylvania)", "value": 23666},
+{"label": "St Mark Lutheran Church (Arona, Pennsylvania)", "value": 24575},
+{"label": "St Mark Lutheran Church (Fort Wayne, Indiana)", "value": 23631},
+{"label": "St Mark Lutheran Church (Seattle, Washington)", "value": 23059},
+{"label": "St Mark's Ev Lutheran Church (Butler, Pennsylvania)", "value": 23585},
+{"label": "St Mark's Ev Lutheran Church (Jefferson, Wisconsin)", "value": 19933},
+{"label": "St Mark's Ev Lutheran Church (Middleburgh, New York)", "value": 23588},
+{"label": "St Mark's Lutheran Church (Auburn, Indiana)", "value": 23061},
+{"label": "St Mark's Lutheran Church (Bedford, Pennsylvania)", "value": 29524},
+{"label": "St Mark's Lutheran Church (Salisbury, North Carolina)", "value": 28113},
+{"label": "St Mark's Lutheran Church (Uniondale, Indiana)", "value": 23824},
+{"label": "St Martin Lutheran Church (Atlanta, Georgia)", "value": 28575},
+{"label": "St Martin's Ev Lutheran Church (Maiden, North Carolina)", "value": 23228},
+{"label": "St Matthew Lutheran Church (Baltimore, Maryland)", "value": 23579},
+{"label": "St Matthew Lutheran Church (Logan, Ohio)", "value": 25241},
+{"label": "St Matthew Lutheran Church (Readlyn, Iowa)", "value": 23571},
+{"label": "St Matthew Lutheran Church of Sandy Hill (Brenham, Texas)", "value": 24482},
+{"label": "St Matthew's Ev Lutheran Church (Riverside, Missouri)", "value": 23949},
+{"label": "St Michael's Church (Hamburg, Pennsylvania)", "value": 29112},
+{"label": "St Paul Ev Lutheran Church (McConnellsburg, Pennsylvania)", "value": 29698},
+{"label": "St Paul Ev Lutheran Church (Sheldon, Iowa)", "value": 23628},
+{"label": "St Paul Ev Lutheran Church (Stoystown, Pennsylvania)", "value": 29692},
+{"label": "St Paul Lutheran Church (Bolivar, Ohio)", "value": 23448},
+{"label": "St Paul Lutheran Church (Burstall, Saskatchewan)", "value": 29871},
+{"label": "St Paul Lutheran Church (Cave Creek) (Fredericksburg, Texas)", "value": 27037},
+{"label": "St Paul Lutheran Church (Clyde, Ohio)", "value": 23605},
+{"label": "St Paul Lutheran Church (Crawford, Texas)", "value": 30409},
+{"label": "St Paul Lutheran Church (Evart, Michigan)", "value": 16414},
+{"label": "St Paul Lutheran Church (Irwin, Iowa)", "value": 27647},
+{"label": "St Paul Lutheran Church (Latrobe, Pennsylvania)", "value": 23873},
+{"label": "St Paul Lutheran Church (New Stanton, Pennsylvania)", "value": 24574},
+{"label": "St Paul Lutheran Church (Newcomerstown, Ohio)", "value": 29235},
+{"label": "St Paul Lutheran Church (Niceville, Florida)", "value": 29582},
+{"label": "St Paul Lutheran Church (Oregon, Illinois)", "value": 22482},
+{"label": "St Paul Lutheran Church (Pomaria, South Carolina)", "value": 29634},
+{"label": "St Paul Lutheran Church (Rosenberg, Texas)", "value": 20623},
+{"label": "St Paul Lutheran Church (Runge, Texas)", "value": 23422},
+{"label": "St Paul Lutheran Church (Seven Valleys, Pennsylvania)", "value": 22905},
+{"label": "St Paul Lutheran Church (Sulphur Springs, Ohio)", "value": 23566},
+{"label": "St Paul Lutheran Church (Watertown, Wisconsin)", "value": 23670},
+{"label": "St Paul Lutheran Church (York, Pennsylvania)", "value": 24008},
+{"label": "St Paul Lutheran Church (Yorktown, Texas)", "value": 22451},
+{"label": "St Paul Lutheran Church of Phillipsburg (Brenham, Texas)", "value": 29925},
+{"label": "St Paul's Ev Lutheran Church (Metropolis, Illinois)", "value": 23183},
+{"label": "St Paul's Ev Lutheran Church (Millersburg, Pennsylvania)", "value": 25046},
+{"label": "St Paul's Ev Lutheran Church (Sarver, Pennsylvania)", "value": 23063},
+{"label": "St Paul's Lutheran Church (Bucyrus, Ohio)", "value": 23683},
+{"label": "St Paul's Lutheran Church (Darrouzett, Texas)", "value": 29923},
+{"label": "St Paul's Lutheran Church (West Falls, New York)", "value": 29701},
+{"label": "St Peter Ev Lutheran Church (Monroeville, Ohio)", "value": 22704},
+{"label": "St Peter Lutheran Church (Chapin, South Carolina)", "value": 23956},
+{"label": "St Peter Lutheran Church (Doss, Texas)", "value": 29038},
+{"label": "St Peter Lutheran Church (Hallettsville, Texas)", "value": 23587},
+{"label": "St Peter Lutheran Church (Medicine Hat, Alberta)", "value": 29839},
+{"label": "St Peter Lutheran Church (Stettler, Alberta)", "value": 25172},
+{"label": "St Peter's Ev Lutheran Church (Lexington, South Carolina)", "value": 25146},
+{"label": "St Peter's Ev Lutheran Church (Winnipeg, Manitoba)", "value": 24648},
+{"label": "St Stephen Lutheran Church (Pittsburgh, Pennsylvania)", "value": 23062},
+{"label": "St Stephen Lutheran Church (Portland, Texas)", "value": 23277},
+{"label": "St Thomas Lutheran Church (Hooversville, Pennsylvania)", "value": 20350},
+{"label": "St Thomas Lutheran Church (Trufant, Michigan)", "value": 24023},
+{"label": "St Timothy Ev Lutheran Church (Camp Hill, Pennsylvania)", "value": 24491},
+{"label": "St Timothy Lutheran Church (Goose Creek, South Carolina)", "value": 25039},
+{"label": "St Timothy's Lutheran Church (San Jose, California)", "value": 165},
+{"label": "Stone Evangelical Lutheran Church (Ashland, Ohio)", "value": 28224},
+{"label": "Trinity Ev Lutheran Church (Abilene, Kansas)", "value": 27682},
+{"label": "Trinity Ev Lutheran Church (Johnstown, Pennsylvania)", "value": 29242},
+{"label": "Trinity Ev Lutheran Church (Joppa, Maryland)", "value": 24617},
+{"label": "Trinity Ev Lutheran Church (Lewiston, Idaho)", "value": 23635},
+{"label": "Trinity Ev Lutheran Church (Ponoka, Alberta)", "value": 28935},
+{"label": "Trinity Ev Lutheran Church (Smithsburg, Maryland)", "value": 30191},
+{"label": "Trinity Lutheran Church (Ashland, Ohio)", "value": 23570},
+{"label": "Trinity Lutheran Church (Ava, Missouri)", "value": 20190},
+{"label": "Trinity Lutheran Church (Avoca, Iowa)", "value": 23607},
+{"label": "Trinity Lutheran Church (Bedford, Pennsylvania)", "value": 28649},
+{"label": "Trinity Lutheran Church (Clarks Summit, Pennsylvania)", "value": 28533},
+{"label": "Trinity Lutheran Church (Concord, North Carolina)", "value": 23869},
+{"label": "Trinity Lutheran Church (Crestline, Ohio)", "value": 27059},
+{"label": "Trinity Lutheran Church (Dallas, Oregon)", "value": 30346},
+{"label": "Trinity Lutheran Church (Dauphin, Manitoba)", "value": 24838},
+{"label": "Trinity Lutheran Church (Ellsworth, Iowa)", "value": 23610},
+{"label": "Trinity Lutheran Church (Foremost, Alberta)", "value": 25184},
+{"label": "Trinity Lutheran Church (Gothenburg, Nebraska)", "value": 23930},
+{"label": "Trinity Lutheran Church (Great Bend, Kansas)", "value": 26953},
+{"label": "Trinity Lutheran Church (Hermiston, Oregon)", "value": 29261},
+{"label": "Trinity Lutheran Church (Jeromesville, Ohio)", "value": 23593},
+{"label": "Trinity Lutheran Church (Lake Norden, South Dakota)", "value": 22331},
+{"label": "Trinity Lutheran Church (Landis, North Carolina)", "value": 22705},
+{"label": "Trinity Lutheran Church (Logansport, Indiana)", "value": 29922},
+{"label": "Trinity Lutheran Church (Midland, South Dakota)", "value": 22465},
+{"label": "Trinity Lutheran Church (Monroeville, Ohio)", "value": 23665},
+{"label": "Trinity Lutheran Church (Saint Charles, Minnesota)", "value": 28947},
+{"label": "Trinity Lutheran Church (Shumway, Illinois)", "value": 27896},
+{"label": "Trinity Lutheran Church (Spencer, Iowa)", "value": 15744},
+{"label": "Trinity Lutheran Church (Springfield, Ohio)", "value": 22119},
+{"label": "Trinity Lutheran Church (Titusville, Florida)", "value": 20301},
+{"label": "Trinity Lutheran Church (Warrenton, Virginia)", "value": 23950},
+{"label": "Trondhjem Lutheran Church (Camrose County, Alberta)", "value": 28362},
+{"label": "Ullensvang Lutheran Church (Thor, Iowa)", "value": 23447},
+{"label": "Union Lutheran Church (Salisbury, North Carolina)", "value": 23064},
+{"label": "United Ev Lutheran Church of Swiss Alp (Schulenburg, Texas)", "value": 30385},
+{"label": "United Lutheran Church (Gatzke, Minnesota)", "value": 28567},
+{"label": "United Lutheran Church (Gonvick, Minnesota)", "value": 23643},
+{"label": "Unity Ev Lutheran Church (Des Moines, Iowa)", "value": 28507},
+{"label": "Upper Arlington Lutheran Church (Hilliard, Ohio)", "value": 399},
+{"label": "Valhalla Ev Lutheran Church (Valhalla Centre, Alberta)", "value": 28482},
+{"label": "Victory Lutheran Church (Medicine Hat, Alberta)", "value": 30063},
+{"label": "Vinemont Community Lutheran Church (Reinholds, Pennsylvania)", "value": 23986},
+{"label": "Waterloo Ridge Lutheran Church (Dorchester, Iowa)", "value": 22466},
+{"label": "Welcome Lutheran Church (Brenham, Texas)", "value": 23060},
+{"label": "West County Lutheran Church (Ellisville, Missouri)", "value": 28635},
+{"label": "Word of God Lutheran Church (Sharpsburg, Georgia)", "value": 22710},
+{"label": "Word of Life Lutheran Church (Vale, North Carolina)", "value": 28342},
+{"label": "Yeager Memorial Lutheran Church (Bedford, Pennsylvania)", "value": 28988},
+{"label": "Zion Ev Lutheran Church (Bow Island, Alberta)", "value": 25183},
+{"label": "Zion Ev Lutheran Church (Lafayette, Ohio)", "value": 29910},
+{"label": "Zion Ev Lutheran Church (Letart, West Virginia)", "value": 23483},
+{"label": "Zion Ev Lutheran Church (Rockford, Ohio)", "value": 24027},
+{"label": "Zion Ev Lutheran Church of Metropolitan (Felch, Michigan)", "value": 29848},
+{"label": "Zion Lutheran Church (Canwood, Saskatchewan)", "value": 29764},
+{"label": "Zion Lutheran Church (Caroline, Wisconsin)", "value": 23324},
+{"label": "Zion Lutheran Church (Chicora, Pennsylvania)", "value": 23971},
+{"label": "Zion Lutheran Church (Columbus, Ohio)", "value": 23594},
+{"label": "Zion Lutheran Church (Everest, Kansas)", "value": 27562},
+{"label": "Zion Lutheran Church (Fairport Harbor, Ohio)", "value": 27897},
+{"label": "Zion Lutheran Church (Philo, Illinois)", "value": 22806},
+{"label": "Zion Lutheran Church (Pittsburgh, Pennsylvania)", "value": 16620},
+{"label": "Zion Lutheran Church (Readlyn, Iowa)", "value": 23577},
+{"label": "Zion Lutheran Church (Ruthven, Iowa)", "value": 23068},
+{"label": "Zion Lutheran Church (Saint Marys, Ohio)", "value": 23923},
+{"label": "Zion Lutheran Church (Scotland, South Dakota)", "value": 29255},
+{"label": "Zion Lutheran Church (Skanee, Michigan)", "value": 23421},
+{"label": "Zion Lutheran Church (Stone Creek, Ohio)", "value": 23746},
+{"label": "Zion Lutheran Church, Inc (Beloit, Kansas)", "value": 29694},
+{"label": "Zoar Ev Lutheran Church (Lebanon, Pennsylvania)", "value": 22706},
