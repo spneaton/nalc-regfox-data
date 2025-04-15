@@ -33,5 +33,6 @@
     {"label": "Texas - Southeast Texas Mission District", "value": "SOUTHEAST_TEXAS"},
     {"label": "Texas - Southwest Texas Mission District", "value": "SOUTHWEST_TEXAS"},
     {"label": "Western Dakotas/Montana/Wyoming Mission District", "value": "W_DAK_MT_WY"},
-    {"label": "Wisconsin/Upper Michigan Mission District", "value": "WI_UPPER_MI"}
+    {"label": "Wisconsin/Upper Michigan Mission District", "value": "WI_UPPER_MI"},
+    {"label": "Unknown", "value": "UNKNOWN"}
 ]
